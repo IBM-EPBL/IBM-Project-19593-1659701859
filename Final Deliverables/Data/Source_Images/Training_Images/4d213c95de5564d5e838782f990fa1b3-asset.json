@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4d213c95de5564d5e838782f990fa1b3",
+        "name": "3_604%20Rosacea%20Stock%20Photos_%20Pictures.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/3_604%20Rosacea%20Stock%20Photos_%20Pictures.jpg",
+        "size": {
+            "width": 612,
+            "height": 408
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "7M0Fw9XAQ",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 48.49370361328125,
+                "width": 46.628571428571426,
+                "left": 284.4925927734375,
+                "top": 145.0148678152902
+            },
+            "points": [
+                {
+                    "x": 284.4925927734375,
+                    "y": 145.0148678152902
+                },
+                {
+                    "x": 331.1211642020089,
+                    "y": 145.0148678152902
+                },
+                {
+                    "x": 331.1211642020089,
+                    "y": 193.50857142857143
+                },
+                {
+                    "x": 284.4925927734375,
+                    "y": 193.50857142857143
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

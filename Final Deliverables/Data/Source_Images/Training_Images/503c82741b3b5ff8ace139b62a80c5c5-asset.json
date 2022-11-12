@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "503c82741b3b5ff8ace139b62a80c5c5",
+        "name": "Erythema%20nodosum_%20red%20nodule%20or%20lump%20on%20inner_yythk.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Erythema%20nodosum_%20red%20nodule%20or%20lump%20on%20inner_yythk.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BwlvmCj2B",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 59.519995117187506,
+                "width": 115.2,
+                "left": 113.24001464843751,
+                "top": 126.4
+            },
+            "points": [
+                {
+                    "x": 113.24001464843751,
+                    "y": 126.4
+                },
+                {
+                    "x": 228.4400146484375,
+                    "y": 126.4
+                },
+                {
+                    "x": 228.4400146484375,
+                    "y": 185.9199951171875
+                },
+                {
+                    "x": 113.24001464843751,
+                    "y": 185.9199951171875
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

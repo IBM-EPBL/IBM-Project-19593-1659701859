@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "86ea8e854894f2fdb9aa99bb077433b8",
+        "name": "Mycosis%20Fungoides%20Increases%20Melanoma%20Risk%20(1).png",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Mycosis%20Fungoides%20Increases%20Melanoma%20Risk%20(1).png",
+        "size": {
+            "width": 1276,
+            "height": 902
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Jw_wzNhdr",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 349.46062648228235,
+                "width": 498.0266981336806,
+                "left": 394.3033175998264,
+                "top": 271.1154207066127
+            },
+            "points": [
+                {
+                    "x": 394.3033175998264,
+                    "y": 271.1154207066127
+                },
+                {
+                    "x": 892.330015733507,
+                    "y": 271.1154207066127
+                },
+                {
+                    "x": 892.330015733507,
+                    "y": 620.576047188895
+                },
+                {
+                    "x": 394.3033175998264,
+                    "y": 620.576047188895
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

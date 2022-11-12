@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "70d55ad9309df0f9c5232eec64ff8d6c",
+        "name": "Psoriasis%20-%20Skin%20Conditions%20We%20Treat%20(1).jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20Skin%20Conditions%20We%20Treat%20(1).jpg",
+        "size": {
+            "width": 900,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ICeWZbRY6",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 308.937638847261,
+                "width": 645.7732010245212,
+                "left": 169.87815792580687,
+                "top": 72.17537170718934
+            },
+            "points": [
+                {
+                    "x": 169.87815792580687,
+                    "y": 72.17537170718934
+                },
+                {
+                    "x": 815.651358950328,
+                    "y": 72.17537170718934
+                },
+                {
+                    "x": 815.651358950328,
+                    "y": 381.11301055445034
+                },
+                {
+                    "x": 169.87815792580687,
+                    "y": 381.11301055445034
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

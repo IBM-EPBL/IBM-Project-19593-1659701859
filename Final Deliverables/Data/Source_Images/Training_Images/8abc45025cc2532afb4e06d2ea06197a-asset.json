@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8abc45025cc2532afb4e06d2ea06197a",
+        "name": "Psoriasis%20_%20Best%20Orthopaedic%20Hospitals%20(1).jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20_%20Best%20Orthopaedic%20Hospitals%20(1).jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Jp3l53-dN",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 257.88876821379637,
+                "width": 364.32637571157494,
+                "left": 667.8103133894687,
+                "top": 463.393760539629
+            },
+            "points": [
+                {
+                    "x": 667.8103133894687,
+                    "y": 463.393760539629
+                },
+                {
+                    "x": 1032.1366891010437,
+                    "y": 463.393760539629
+                },
+                {
+                    "x": 1032.1366891010437,
+                    "y": 721.2825287534254
+                },
+                {
+                    "x": 667.8103133894687,
+                    "y": 721.2825287534254
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

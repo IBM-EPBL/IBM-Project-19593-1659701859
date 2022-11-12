@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "559fc4a32e02c09d83c97b7dbade61ad",
+        "name": "Demystifying%20Skin%20Cancer%20-%20Complete.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Demystifying%20Skin%20Cancer%20-%20Complete.jpg",
+        "size": {
+            "width": 1000,
+            "height": 667
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "3uGXQAq0-",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 66.3188629586356,
+                "width": 92.95235770089285,
+                "left": 485.1904878162202,
+                "top": 307.9634402029855
+            },
+            "points": [
+                {
+                    "x": 485.1904878162202,
+                    "y": 307.9634402029855
+                },
+                {
+                    "x": 578.1428455171131,
+                    "y": 307.9634402029855
+                },
+                {
+                    "x": 578.1428455171131,
+                    "y": 374.2823031616211
+                },
+                {
+                    "x": 485.1904878162202,
+                    "y": 374.2823031616211
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

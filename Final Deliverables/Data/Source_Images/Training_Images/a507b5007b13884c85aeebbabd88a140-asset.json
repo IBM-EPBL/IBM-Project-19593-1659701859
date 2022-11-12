@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "a507b5007b13884c85aeebbabd88a140",
+        "name": "Psoriatic%20Plaque%20on%20the%20Elbow%20(1).png",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriatic%20Plaque%20on%20the%20Elbow%20(1).png",
+        "size": {
+            "width": 1126,
+            "height": 800
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "C50aCeP9D",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 346.9714704241071,
+                "width": 455.73880704372937,
+                "left": 460.13543230718335,
+                "top": 198.85714285714283
+            },
+            "points": [
+                {
+                    "x": 460.13543230718335,
+                    "y": 198.85714285714283
+                },
+                {
+                    "x": 915.8742393509127,
+                    "y": 198.85714285714283
+                },
+                {
+                    "x": 915.8742393509127,
+                    "y": 545.82861328125
+                },
+                {
+                    "x": 460.13543230718335,
+                    "y": 545.82861328125
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

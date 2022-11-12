@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "35c177d93a8354c222a3ab1276560914",
+        "name": "Surgical%20Dermatologist%20Kuna_%20ID.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Surgical%20Dermatologist%20Kuna_%20ID.jpg",
+        "size": {
+            "width": 275,
+            "height": 183
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "xuxZ4hqOn",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 148.64829528808596,
+                "width": 252.03869388130678,
+                "left": 4.966730038022813,
+                "top": 19.084285714285716
+            },
+            "points": [
+                {
+                    "x": 4.966730038022813,
+                    "y": 19.084285714285716
+                },
+                {
+                    "x": 257.0054239193296,
+                    "y": 19.084285714285716
+                },
+                {
+                    "x": 257.0054239193296,
+                    "y": 167.73258100237166
+                },
+                {
+                    "x": 4.966730038022813,
+                    "y": 167.73258100237166
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

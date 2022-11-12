@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9eb0a9f8eba00bd764ed1b5777b0c583",
+        "name": "a%20man%20has%20a%20solar%20erythema%20because%20he%20did_yy.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/a%20man%20has%20a%20solar%20erythema%20because%20he%20did_yy.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "tPyGRthqW",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 39.04000244140625,
+                "width": 40.3199951171875,
+                "left": 271.4400146484375,
+                "top": 160.95999755859376
+            },
+            "points": [
+                {
+                    "x": 271.4400146484375,
+                    "y": 160.95999755859376
+                },
+                {
+                    "x": 311.760009765625,
+                    "y": 160.95999755859376
+                },
+                {
+                    "x": 311.760009765625,
+                    "y": 200
+                },
+                {
+                    "x": 271.4400146484375,
+                    "y": 200
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

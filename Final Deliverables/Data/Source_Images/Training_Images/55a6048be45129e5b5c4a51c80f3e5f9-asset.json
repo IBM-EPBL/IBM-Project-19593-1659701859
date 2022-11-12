@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "55a6048be45129e5b5c4a51c80f3e5f9",
+        "name": "A%20close%20up%20view%20on%20the%20face%20of%20a%20youn.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20close%20up%20view%20on%20the%20face%20of%20a%20youn.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "dmNu_H8pP",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 74.87999267578125,
+                "width": 96.00002441406251,
+                "left": 255.1199951171875,
+                "top": 147.52000732421877
+            },
+            "points": [
+                {
+                    "x": 255.1199951171875,
+                    "y": 147.52000732421877
+                },
+                {
+                    "x": 351.12001953125,
+                    "y": 147.52000732421877
+                },
+                {
+                    "x": 351.12001953125,
+                    "y": 222.4
+                },
+                {
+                    "x": 255.1199951171875,
+                    "y": 222.4
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8be8ce295a1f84e84c4c19cbcb0a9755",
+        "name": "Psoriasis%20vs.%20Skin%20Cancer_%20Pictures%20(14).jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20vs.%20Skin%20Cancer_%20Pictures%20(14).jpg",
+        "size": {
+            "width": 1155,
+            "height": 648
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "IS8s9Zqes",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 476.78933072807797,
+                "width": 1111.9174894352548,
+                "left": 31.82475217838877,
+                "top": 94.19297989555027
+            },
+            "points": [
+                {
+                    "x": 31.82475217838877,
+                    "y": 94.19297989555027
+                },
+                {
+                    "x": 1143.7422416136435,
+                    "y": 94.19297989555027
+                },
+                {
+                    "x": 1143.7422416136435,
+                    "y": 570.9823106236282
+                },
+                {
+                    "x": 31.82475217838877,
+                    "y": 570.9823106236282
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

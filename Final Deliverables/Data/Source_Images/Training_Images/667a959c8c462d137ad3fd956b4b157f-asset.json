@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "667a959c8c462d137ad3fd956b4b157f",
+        "name": "Who_s%20at%20Risk%20for%20Melanoma__%20Skinworks.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Who_s%20at%20Risk%20for%20Melanoma__%20Skinworks.jpg",
+        "size": {
+            "width": 700,
+            "height": 466
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "niP4Ok86S",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 46.866281651088165,
+                "width": 63.93910561370124,
+                "left": 224.16150268206246,
+                "top": 215.15886526925223
+            },
+            "points": [
+                {
+                    "x": 224.16150268206246,
+                    "y": 215.15886526925223
+                },
+                {
+                    "x": 288.1006082957637,
+                    "y": 215.15886526925223
+                },
+                {
+                    "x": 288.1006082957637,
+                    "y": 262.0251469203404
+                },
+                {
+                    "x": 224.16150268206246,
+                    "y": 262.0251469203404
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

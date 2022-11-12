@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "77617b40e900adcaed4f15597a7e7e67",
+        "name": "Skin%20cancer_%20Half%20of%20people%20surviving.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Skin%20cancer_%20Half%20of%20people%20surviving.jpg",
+        "size": {
+            "width": 976,
+            "height": 549
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "u3M1ZGpsF",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 351.0637267242998,
+                "width": 557.8200799409985,
+                "left": 196.49640599057165,
+                "top": 111.13084460510974
+            },
+            "points": [
+                {
+                    "x": 196.49640599057165,
+                    "y": 111.13084460510974
+                },
+                {
+                    "x": 754.3164859315702,
+                    "y": 111.13084460510974
+                },
+                {
+                    "x": 754.3164859315702,
+                    "y": 462.1945713294095
+                },
+                {
+                    "x": 196.49640599057165,
+                    "y": 462.1945713294095
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

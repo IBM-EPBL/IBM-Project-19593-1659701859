@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2050ebdc1db7a7d3f77d9143f2dccd2d",
+        "name": "A%20case%20of%20erythema%20multiforme%20in%20a%20child%20Sto.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20case%20of%20erythema%20multiforme%20in%20a%20child%20Sto.jpg",
+        "size": {
+            "width": 451,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Lbrlu-p8-",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 55.49246520074112,
+                "width": 165.35258247926063,
+                "left": 158.16701546895135,
+                "top": 128.42144692412316
+            },
+            "points": [
+                {
+                    "x": 158.16701546895135,
+                    "y": 128.42144692412316
+                },
+                {
+                    "x": 323.519597948212,
+                    "y": 128.42144692412316
+                },
+                {
+                    "x": 323.519597948212,
+                    "y": 183.91391212486428
+                },
+                {
+                    "x": 158.16701546895135,
+                    "y": 183.91391212486428
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8cadddd9e91221f5c4952ee46c844356",
+        "name": "Erythema%20ab%20igne%20or%20heat%20dermatitis%20also%20known_yyth.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Erythema%20ab%20igne%20or%20heat%20dermatitis%20also%20known_yyth.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "gzeElzAnf",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 31.679998779296877,
+                "width": 43.1999755859375,
+                "left": 297.2400146484375,
+                "top": 16.320001220703126
+            },
+            "points": [
+                {
+                    "x": 297.2400146484375,
+                    "y": 16.320001220703126
+                },
+                {
+                    "x": 340.43999023437505,
+                    "y": 16.320001220703126
+                },
+                {
+                    "x": 340.43999023437505,
+                    "y": 48
+                },
+                {
+                    "x": 297.2400146484375,
+                    "y": 48
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

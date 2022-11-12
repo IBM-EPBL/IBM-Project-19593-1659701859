@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9eea793bfb00d8fc67af9c56ba39e324",
+        "name": "Erythema%20multiforme%20annular%20erythematous%20targetoid%20skin%20le%20(1).jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Erythema%20multiforme%20annular%20erythematous%20targetoid%20skin%20le%20(1).jpg",
+        "size": {
+            "width": 146,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "MWKEmb1mH",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 88.79999999999998,
+                "width": 53.759985351562506,
+                "left": 56.6400146484375,
+                "top": 89.60000000000002
+            },
+            "points": [
+                {
+                    "x": 56.6400146484375,
+                    "y": 89.60000000000002
+                },
+                {
+                    "x": 110.4,
+                    "y": 89.60000000000002
+                },
+                {
+                    "x": 110.4,
+                    "y": 178.4
+                },
+                {
+                    "x": 56.6400146484375,
+                    "y": 178.4
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

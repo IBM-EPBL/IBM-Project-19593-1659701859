@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "299ab8ac84bbbda2c6b5d08cb6ef68f2",
+        "name": "Acne%20vs.%20Rosacea.%20How%20to%20Combat%20Both.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Acne%20vs.%20Rosacea.%20How%20to%20Combat%20Both.jpg",
+        "size": {
+            "width": 1105,
+            "height": 380
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "MrqD3MFST",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 103.54223433242507,
+                "width": 130.90155532679606,
+                "left": 398.29713258323204,
+                "top": 88.50273111535678
+            },
+            "points": [
+                {
+                    "x": 398.29713258323204,
+                    "y": 88.50273111535678
+                },
+                {
+                    "x": 529.1986879100281,
+                    "y": 88.50273111535678
+                },
+                {
+                    "x": 529.1986879100281,
+                    "y": 192.04496544778183
+                },
+                {
+                    "x": 398.29713258323204,
+                    "y": 192.04496544778183
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

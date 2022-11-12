@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "41b4d1a5bc351d78e904170466b049ca",
+        "name": "Young%20woman%20with%20acne_%20melasma_%20dark%20spots_%20freckle.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Young%20woman%20with%20acne_%20melasma_%20dark%20spots_%20freckle.jpg",
+        "size": {
+            "width": 353,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "sM8lrPZo6",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 29.44000244140625,
+                "width": 32.978694578417304,
+                "left": 83.26717198516776,
+                "top": 9.920001220703126
+            },
+            "points": [
+                {
+                    "x": 83.26717198516776,
+                    "y": 9.920001220703126
+                },
+                {
+                    "x": 116.24586656358507,
+                    "y": 9.920001220703126
+                },
+                {
+                    "x": 116.24586656358507,
+                    "y": 39.36000366210938
+                },
+                {
+                    "x": 83.26717198516776,
+                    "y": 39.36000366210938
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

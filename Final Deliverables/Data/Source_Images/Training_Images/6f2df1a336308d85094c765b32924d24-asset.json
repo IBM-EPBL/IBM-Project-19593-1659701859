@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "6f2df1a336308d85094c765b32924d24",
+        "name": "Different%20Types%20of%20Psoriasis%20-%20Olansky%20(1).jpeg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Different%20Types%20of%20Psoriasis%20-%20Olansky%20(1).jpeg",
+        "size": {
+            "width": 1200,
+            "height": 627
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fAZyOBFrL",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 130.0772143128097,
+                "width": 122.36181686387062,
+                "left": 571.0965186050258,
+                "top": 441.59677419354836
+            },
+            "points": [
+                {
+                    "x": 571.0965186050258,
+                    "y": 441.59677419354836
+                },
+                {
+                    "x": 693.4583354688965,
+                    "y": 441.59677419354836
+                },
+                {
+                    "x": 693.4583354688965,
+                    "y": 571.673988506358
+                },
+                {
+                    "x": 571.0965186050258,
+                    "y": 571.673988506358
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

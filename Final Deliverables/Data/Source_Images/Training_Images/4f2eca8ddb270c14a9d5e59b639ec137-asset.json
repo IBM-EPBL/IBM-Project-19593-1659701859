@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4f2eca8ddb270c14a9d5e59b639ec137",
+        "name": "Amelanotic%20Melanoma%20Pictures.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Amelanotic%20Melanoma%20Pictures.jpg",
+        "size": {
+            "width": 1090,
+            "height": 891
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yBsY6QoE6",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 348.25372205461775,
+                "width": 285.2336448598131,
+                "left": 416.3583217157382,
+                "top": 359.4548493739537
+            },
+            "points": [
+                {
+                    "x": 416.3583217157382,
+                    "y": 359.4548493739537
+                },
+                {
+                    "x": 701.5919665755513,
+                    "y": 359.4548493739537
+                },
+                {
+                    "x": 701.5919665755513,
+                    "y": 707.7085714285714
+                },
+                {
+                    "x": 416.3583217157382,
+                    "y": 707.7085714285714
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

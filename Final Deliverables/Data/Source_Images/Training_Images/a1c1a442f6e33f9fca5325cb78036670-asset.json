@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a1c1a442f6e33f9fca5325cb78036670",
+        "name": "Amelanotic%20melanoma_%20Pictures_%20symptoms.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Amelanotic%20melanoma_%20Pictures_%20symptoms.jpg",
+        "size": {
+            "width": 1100,
+            "height": 712
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "F1WlyBkc1",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 303.1741871763884,
+                "width": 434.15556587349533,
+                "left": 227.30552195597872,
+                "top": 281.38093204442356
+            },
+            "points": [
+                {
+                    "x": 227.30552195597872,
+                    "y": 281.38093204442356
+                },
+                {
+                    "x": 661.4610878294741,
+                    "y": 281.38093204442356
+                },
+                {
+                    "x": 661.4610878294741,
+                    "y": 584.5551192208119
+                },
+                {
+                    "x": 227.30552195597872,
+                    "y": 584.5551192208119
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "798a53a452b436ea78303df1723caad2",
+        "name": "Psoriasis%20Diagnosis%20&%20Treatment%20in%20Boca%20(1).jpeg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Diagnosis%20&%20Treatment%20in%20Boca%20(1).jpeg",
+        "size": {
+            "width": 776,
+            "height": 360
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HZ6u7_Zy0",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 223.41819069602272,
+                "width": 142.54545454545456,
+                "left": 375.1272638494318,
+                "top": 82.54545454545455
+            },
+            "points": [
+                {
+                    "x": 375.1272638494318,
+                    "y": 82.54545454545455
+                },
+                {
+                    "x": 517.6727183948864,
+                    "y": 82.54545454545455
+                },
+                {
+                    "x": 517.6727183948864,
+                    "y": 305.9636452414773
+                },
+                {
+                    "x": 375.1272638494318,
+                    "y": 305.9636452414773
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

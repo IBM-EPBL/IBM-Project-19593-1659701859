@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3c4b00231d016fa5419eaa08557d083d",
+        "name": "An%20extreme%20closeup%20view%20on%20the%20cheek%20of%20a_yy.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/An%20extreme%20closeup%20view%20on%20the%20cheek%20of%20a_yy.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "gJ-lCEXwU",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 106.24000244140626,
+                "width": 115.2,
+                "left": 186.20000000000002,
+                "top": 106.55999755859375
+            },
+            "points": [
+                {
+                    "x": 186.20000000000002,
+                    "y": 106.55999755859375
+                },
+                {
+                    "x": 301.40000000000003,
+                    "y": 106.55999755859375
+                },
+                {
+                    "x": 301.40000000000003,
+                    "y": 212.8
+                },
+                {
+                    "x": 186.20000000000002,
+                    "y": 212.8
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

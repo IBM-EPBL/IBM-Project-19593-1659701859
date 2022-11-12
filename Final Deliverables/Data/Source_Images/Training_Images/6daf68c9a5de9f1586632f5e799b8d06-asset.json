@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6daf68c9a5de9f1586632f5e799b8d06",
+        "name": "A%20closeup%20view%20on%20the%20face%20of%20a%20young_yythkg.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20closeup%20view%20on%20the%20face%20of%20a%20young_yythkg.jpg",
+        "size": {
+            "width": 506,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vIwucv2RB",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 101.43396812687607,
+                "width": 101.39203622083285,
+                "left": 266.63416731832604,
+                "top": 45.734136722100125
+            },
+            "points": [
+                {
+                    "x": 266.63416731832604,
+                    "y": 45.734136722100125
+                },
+                {
+                    "x": 368.02620353915887,
+                    "y": 45.734136722100125
+                },
+                {
+                    "x": 368.02620353915887,
+                    "y": 147.16810484897618
+                },
+                {
+                    "x": 266.63416731832604,
+                    "y": 147.16810484897618
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

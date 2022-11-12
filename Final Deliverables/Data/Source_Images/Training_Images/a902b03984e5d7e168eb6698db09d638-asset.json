@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a902b03984e5d7e168eb6698db09d638",
+        "name": "A%20closeup%20and%20high%20angle%20view%20of%20a%20pretty_yy.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20closeup%20and%20high%20angle%20view%20of%20a%20pretty_yy.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "7yi_SZECn",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 45.1199951171875,
+                "width": 85.44001464843751,
+                "left": 235.9199951171875,
+                "top": 156.8
+            },
+            "points": [
+                {
+                    "x": 235.9199951171875,
+                    "y": 156.8
+                },
+                {
+                    "x": 321.360009765625,
+                    "y": 156.8
+                },
+                {
+                    "x": 321.360009765625,
+                    "y": 201.9199951171875
+                },
+                {
+                    "x": 235.9199951171875,
+                    "y": 201.9199951171875
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

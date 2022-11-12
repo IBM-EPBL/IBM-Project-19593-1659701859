@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "32ef14dd4405c31a14b9557ed96ef36a",
+        "name": "Causes%20of%20Scaly%20or%20Flaking%20Skin%20(1).jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Causes%20of%20Scaly%20or%20Flaking%20Skin%20(1).jpg",
+        "size": {
+            "width": 1500,
+            "height": 917
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "rjTPJ0vqt",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 346.5472306795647,
+                "width": 374.5079147782187,
+                "left": 716.1199968332651,
+                "top": 165.6085230002374
+            },
+            "points": [
+                {
+                    "x": 716.1199968332651,
+                    "y": 165.6085230002374
+                },
+                {
+                    "x": 1090.6279116114838,
+                    "y": 165.6085230002374
+                },
+                {
+                    "x": 1090.6279116114838,
+                    "y": 512.155753679802
+                },
+                {
+                    "x": 716.1199968332651,
+                    "y": 512.155753679802
+                }
+            ]
+        },
+        {
+            "id": "ANIl4OZtx",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 297.04046504482903,
+                "width": 260.91851446264354,
+                "left": 358.4817244611059,
+                "top": 220.7410555061387
+            },
+            "points": [
+                {
+                    "x": 358.4817244611059,
+                    "y": 220.7410555061387
+                },
+                {
+                    "x": 619.4002389237495,
+                    "y": 220.7410555061387
+                },
+                {
+                    "x": 619.4002389237495,
+                    "y": 517.7815205509677
+                },
+                {
+                    "x": 358.4817244611059,
+                    "y": 517.7815205509677
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

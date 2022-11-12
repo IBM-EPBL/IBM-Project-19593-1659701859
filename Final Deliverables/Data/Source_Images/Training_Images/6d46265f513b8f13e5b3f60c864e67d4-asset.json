@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6d46265f513b8f13e5b3f60c864e67d4",
+        "name": "Psoriasis%20_%20Beacon%20Health%20System%20(2).jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20_%20Beacon%20Health%20System%20(2).jpg",
+        "size": {
+            "width": 468,
+            "height": 392
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "IdtDNpS0Z",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 180.09600341796883,
+                "width": 436.96564421585305,
+                "left": 19.033492822966508,
+                "top": 142.0160034179688
+            },
+            "points": [
+                {
+                    "x": 19.033492822966508,
+                    "y": 142.0160034179688
+                },
+                {
+                    "x": 455.9991370388196,
+                    "y": 142.0160034179688
+                },
+                {
+                    "x": 455.9991370388196,
+                    "y": 322.1120068359376
+                },
+                {
+                    "x": 19.033492822966508,
+                    "y": 322.1120068359376
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

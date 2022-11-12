@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5f00722388884e435438ff1f69abeb94",
+        "name": "Erythema%20Nodosum_%20reddish_%20painful%20lumps%20in%20legs%20St.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Erythema%20Nodosum_%20reddish_%20painful%20lumps%20in%20legs%20St.jpg",
+        "size": {
+            "width": 462,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "gpxlzN7-T",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 84.96550652674374,
+                "width": 165.51348853789878,
+                "left": 130.18406072106262,
+                "top": 79.96239115078248
+            },
+            "points": [
+                {
+                    "x": 130.18406072106262,
+                    "y": 79.96239115078248
+                },
+                {
+                    "x": 295.69754925896143,
+                    "y": 79.96239115078248
+                },
+                {
+                    "x": 295.69754925896143,
+                    "y": 164.9278976775262
+                },
+                {
+                    "x": 130.18406072106262,
+                    "y": 164.9278976775262
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

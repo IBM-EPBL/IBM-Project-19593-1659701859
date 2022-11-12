@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "420d64b03b261210acd2ebcfb37f9ea3",
+        "name": "Texas%20Rosacea%20Specialists%20-%20Skin%20Cancer.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Texas%20Rosacea%20Specialists%20-%20Skin%20Cancer.jpg",
+        "size": {
+            "width": 795,
+            "height": 448
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2fbOWYpu-",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 200.31784972117003,
+                "width": 382.5654741030264,
+                "left": 190.22676442560706,
+                "top": 229.11920803082913
+            },
+            "points": [
+                {
+                    "x": 190.22676442560706,
+                    "y": 229.11920803082913
+                },
+                {
+                    "x": 572.7922385286334,
+                    "y": 229.11920803082913
+                },
+                {
+                    "x": 572.7922385286334,
+                    "y": 429.4370577519992
+                },
+                {
+                    "x": 190.22676442560706,
+                    "y": 429.4370577519992
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "39456a7fa0de4f62151ad85f82ea7b9a",
+        "name": "Can%20Melanoma%20Cancer%20Come%20Back.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Can%20Melanoma%20Cancer%20Come%20Back.jpg",
+        "size": {
+            "width": 2121,
+            "height": 1414
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "nju2sOwXY",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 588.2239630126953,
+                "width": 541.36,
+                "left": 783.3559753417969,
+                "top": 431.4720123291016
+            },
+            "points": [
+                {
+                    "x": 783.3559753417969,
+                    "y": 431.4720123291016
+                },
+                {
+                    "x": 1324.7159753417968,
+                    "y": 431.4720123291016
+                },
+                {
+                    "x": 1324.7159753417968,
+                    "y": 1019.6959753417968
+                },
+                {
+                    "x": 783.3559753417969,
+                    "y": 1019.6959753417968
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

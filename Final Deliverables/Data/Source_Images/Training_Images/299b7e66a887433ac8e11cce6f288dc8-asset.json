@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "299b7e66a887433ac8e11cce6f288dc8",
+        "name": "Erythematous%20macular%20rash%20on%20both%20palms.%20Stock%20Phot.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Erythematous%20macular%20rash%20on%20both%20palms.%20Stock%20Phot.jpg",
+        "size": {
+            "width": 383,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "pWMJhzKVG",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 91.19999389648439,
+                "width": 61.08809532850421,
+                "left": 259.684389691761,
+                "top": 34.560003662109374
+            },
+            "points": [
+                {
+                    "x": 259.684389691761,
+                    "y": 34.560003662109374
+                },
+                {
+                    "x": 320.7724850202652,
+                    "y": 34.560003662109374
+                },
+                {
+                    "x": 320.7724850202652,
+                    "y": 125.75999755859375
+                },
+                {
+                    "x": 259.684389691761,
+                    "y": 125.75999755859375
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

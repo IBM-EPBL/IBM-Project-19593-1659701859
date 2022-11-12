@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "45d30eeb585f63a588ac9977e50a9535",
+        "name": "A%20closeup%20view%20on%20the%20face%20of%20a%20Caucasian_yy.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20closeup%20view%20on%20the%20face%20of%20a%20Caucasian_yy.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "N3a1pOW_h",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 152.32000732421875,
+                "width": 141.43999023437502,
+                "left": 137.2400146484375,
+                "top": 65.92000732421876
+            },
+            "points": [
+                {
+                    "x": 137.2400146484375,
+                    "y": 65.92000732421876
+                },
+                {
+                    "x": 278.6800048828125,
+                    "y": 65.92000732421876
+                },
+                {
+                    "x": 278.6800048828125,
+                    "y": 218.24001464843752
+                },
+                {
+                    "x": 137.2400146484375,
+                    "y": 218.24001464843752
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

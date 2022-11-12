@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "81296bc8a91f9914b0b8c472e94e9c66",
+        "name": "1816456.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/1816456.jpg",
+        "size": {
+            "width": 1000,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "uh3J7rWBV",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 179.0625,
+                "width": 132.14620431115276,
+                "left": 404.8734770384255,
+                "top": 420.9375
+            },
+            "points": [
+                {
+                    "x": 404.8734770384255,
+                    "y": 420.9375
+                },
+                {
+                    "x": 537.0196813495783,
+                    "y": 420.9375
+                },
+                {
+                    "x": 537.0196813495783,
+                    "y": 600
+                },
+                {
+                    "x": 404.8734770384255,
+                    "y": 600
+                }
+            ]
+        },
+        {
+            "id": "EieFSCeww",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 147.28124856948853,
+                "width": 358.0131208997186,
+                "left": 552.0149953139644,
+                "top": 409.6875
+            },
+            "points": [
+                {
+                    "x": 552.0149953139644,
+                    "y": 409.6875
+                },
+                {
+                    "x": 910.028116213683,
+                    "y": 409.6875
+                },
+                {
+                    "x": 910.028116213683,
+                    "y": 556.9687485694885
+                },
+                {
+                    "x": 552.0149953139644,
+                    "y": 556.9687485694885
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

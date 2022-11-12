@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a0c8ac27702b50b115650c15a72fcbff",
+        "name": "Psoriasis%20Diagnosis%20&%20Treatment.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Diagnosis%20&%20Treatment.jpg",
+        "size": {
+            "width": 400,
+            "height": 300
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "0DEzsG037",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 206.39999607631137,
+                "width": 119.22913251137581,
+                "left": 135.0642398286938,
+                "top": 51.085712977818076
+            },
+            "points": [
+                {
+                    "x": 135.0642398286938,
+                    "y": 51.085712977818076
+                },
+                {
+                    "x": 254.2933723400696,
+                    "y": 51.085712977818076
+                },
+                {
+                    "x": 254.2933723400696,
+                    "y": 257.4857090541295
+                },
+                {
+                    "x": 135.0642398286938,
+                    "y": 257.4857090541295
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

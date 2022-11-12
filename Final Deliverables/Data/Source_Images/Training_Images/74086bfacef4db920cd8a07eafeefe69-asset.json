@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "74086bfacef4db920cd8a07eafeefe69",
+        "name": "Affect%20Skin%20Cancer%20Detection%20(1).jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Affect%20Skin%20Cancer%20Detection%20(1).jpg",
+        "size": {
+            "width": 5616,
+            "height": 1862
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "0_SMi0deD",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 251.103740234375,
+                "width": 362.3225806451613,
+                "left": 2695.040542168228,
+                "top": 1459.4756298828127
+            },
+            "points": [
+                {
+                    "x": 2695.040542168228,
+                    "y": 1459.4756298828127
+                },
+                {
+                    "x": 3057.3631228133895,
+                    "y": 1459.4756298828127
+                },
+                {
+                    "x": 3057.3631228133895,
+                    "y": 1710.5793701171876
+                },
+                {
+                    "x": 2695.040542168228,
+                    "y": 1710.5793701171876
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "90c159345f8a380ebd6c2aebd50d7817",
+        "name": "allergic-contact-dermatitis-skin-reaction-260nw-1535080628.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/allergic-contact-dermatitis-skin-reaction-260nw-1535080628.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "a6AEG58ZX",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 75.5199951171875,
+                "width": 79.68000488281251,
+                "left": 109.2,
+                "top": 86.72000732421876
+            },
+            "points": [
+                {
+                    "x": 109.2,
+                    "y": 86.72000732421876
+                },
+                {
+                    "x": 188.8800048828125,
+                    "y": 86.72000732421876
+                },
+                {
+                    "x": 188.8800048828125,
+                    "y": 162.24000244140626
+                },
+                {
+                    "x": 109.2,
+                    "y": 162.24000244140626
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

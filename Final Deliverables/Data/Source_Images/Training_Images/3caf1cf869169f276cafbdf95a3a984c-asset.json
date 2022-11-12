@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3caf1cf869169f276cafbdf95a3a984c",
+        "name": "Malignant%20Melanoma%20Picture%20Image.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Malignant%20Melanoma%20Picture%20Image.jpg",
+        "size": {
+            "width": 650,
+            "height": 442
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Qv9yW8X_r",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 145.98627415248328,
+                "width": 230.71843119500912,
+                "left": 228.64382993827746,
+                "top": 131.84229727608817
+            },
+            "points": [
+                {
+                    "x": 228.64382993827746,
+                    "y": 131.84229727608817
+                },
+                {
+                    "x": 459.3622611332866,
+                    "y": 131.84229727608817
+                },
+                {
+                    "x": 459.3622611332866,
+                    "y": 277.8285714285714
+                },
+                {
+                    "x": 228.64382993827746,
+                    "y": 277.8285714285714
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6707921b072205f35852a8b0e641b9a0",
+        "name": "Malignant%20Melanoma_%20Practice%20Essentials.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Malignant%20Melanoma_%20Practice%20Essentials.jpg",
+        "size": {
+            "width": 252,
+            "height": 380
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Z60IK1dVC",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 136.36572091238838,
+                "width": 142.075848809604,
+                "left": 55.02316810344828,
+                "top": 158.0800066266741
+            },
+            "points": [
+                {
+                    "x": 55.02316810344828,
+                    "y": 158.0800066266741
+                },
+                {
+                    "x": 197.09901691305228,
+                    "y": 158.0800066266741
+                },
+                {
+                    "x": 197.09901691305228,
+                    "y": 294.4457275390625
+                },
+                {
+                    "x": 55.02316810344828,
+                    "y": 294.4457275390625
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a747b88f02f11585b33b3a74ac6823db",
+        "name": "Is%20there%20more%20than%20one%20road%20to%20melanoma.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Is%20there%20more%20than%20one%20road%20to%20melanoma.jpg",
+        "size": {
+            "width": 485,
+            "height": 323
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4PFaVb6GM",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 46.14285714285714,
+                "width": 90.44719314938155,
+                "left": 277.77903265549276,
+                "top": 82.68800563267298
+            },
+            "points": [
+                {
+                    "x": 277.77903265549276,
+                    "y": 82.68800563267298
+                },
+                {
+                    "x": 368.2262258048743,
+                    "y": 82.68800563267298
+                },
+                {
+                    "x": 368.2262258048743,
+                    "y": 128.83086277553014
+                },
+                {
+                    "x": 277.77903265549276,
+                    "y": 128.83086277553014
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

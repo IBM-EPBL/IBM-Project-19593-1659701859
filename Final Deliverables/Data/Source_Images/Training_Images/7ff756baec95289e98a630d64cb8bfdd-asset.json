@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7ff756baec95289e98a630d64cb8bfdd",
+        "name": "peeling%20of%20the%20skin_%20papules_%20pustules_%20post-acne_.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/peeling%20of%20the%20skin_%20papules_%20pustules_%20post-acne_.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "dfdgGb0fe",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 125.91999511718751,
+                "width": 134.839990234375,
+                "left": 197.60000000000002,
+                "top": 50.400000000000006
+            },
+            "points": [
+                {
+                    "x": 197.60000000000002,
+                    "y": 50.400000000000006
+                },
+                {
+                    "x": 332.43999023437505,
+                    "y": 50.400000000000006
+                },
+                {
+                    "x": 332.43999023437505,
+                    "y": 176.31999511718752
+                },
+                {
+                    "x": 197.60000000000002,
+                    "y": 176.31999511718752
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

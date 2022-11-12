@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7b78f0a53451b1fdd9e53a07e3c1a6af",
+        "name": "Psoriasis%20-%20Pariser%20Dermatology%20(1).jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20Pariser%20Dermatology%20(1).jpg",
+        "size": {
+            "width": 369,
+            "height": 235
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "DFdYu2npT",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 93.58468124546955,
+                "width": 205.56099951904068,
+                "left": 112.25624509201836,
+                "top": 117.1798669536967
+            },
+            "points": [
+                {
+                    "x": 112.25624509201836,
+                    "y": 117.1798669536967
+                },
+                {
+                    "x": 317.81724461105904,
+                    "y": 117.1798669536967
+                },
+                {
+                    "x": 317.81724461105904,
+                    "y": 210.76454819916626
+                },
+                {
+                    "x": 112.25624509201836,
+                    "y": 210.76454819916626
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

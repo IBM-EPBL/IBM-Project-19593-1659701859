@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "52969c680a54179515d1652154d7b3bf",
+        "name": "Amelanotic%20Melanoma_%20Symptoms_%20Causes.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Amelanotic%20Melanoma_%20Symptoms_%20Causes.jpg",
+        "size": {
+            "width": 1536,
+            "height": 1155
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "6fCT8cfJT",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 201.9600402832031,
+                "width": 225.69783834586468,
+                "left": 1260.9100597475833,
+                "top": 711.4800201416015
+            },
+            "points": [
+                {
+                    "x": 1260.9100597475833,
+                    "y": 711.4800201416015
+                },
+                {
+                    "x": 1486.607898093448,
+                    "y": 711.4800201416015
+                },
+                {
+                    "x": 1486.607898093448,
+                    "y": 913.4400604248046
+                },
+                {
+                    "x": 1260.9100597475833,
+                    "y": 913.4400604248046
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
