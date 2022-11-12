@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "cefd854909b6386eec1228f09d439675",
+        "name": "Melanoma%20Medical%20Definition%20Including.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Medical%20Definition%20Including.jpg",
+        "size": {
+            "width": 800,
+            "height": 300
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "mb8UmFAMU",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 55.29112996934336,
+                "width": 38.25424165381879,
+                "left": 336.5465080941651,
+                "top": 172.87974683544306
+            },
+            "points": [
+                {
+                    "x": 336.5465080941651,
+                    "y": 172.87974683544306
+                },
+                {
+                    "x": 374.8007497479839,
+                    "y": 172.87974683544306
+                },
+                {
+                    "x": 374.8007497479839,
+                    "y": 228.17087680478642
+                },
+                {
+                    "x": 336.5465080941651,
+                    "y": 228.17087680478642
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

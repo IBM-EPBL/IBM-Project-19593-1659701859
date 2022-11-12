@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e93e2ec576c4e2afcd7eb58e7283eaa7",
+        "name": "Psoriasis%20Treatment%20-%20Dr%20HM%20Liew%20Skin.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Treatment%20-%20Dr%20HM%20Liew%20Skin.jpg",
+        "size": {
+            "width": 600,
+            "height": 450
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "r9lpgTQss",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 108.51429748535158,
+                "width": 109.46466417333043,
+                "left": 70.8404671711891,
+                "top": 100.28571428571429
+            },
+            "points": [
+                {
+                    "x": 70.8404671711891,
+                    "y": 100.28571428571429
+                },
+                {
+                    "x": 180.30513134451954,
+                    "y": 100.28571428571429
+                },
+                {
+                    "x": 180.30513134451954,
+                    "y": 208.80001177106587
+                },
+                {
+                    "x": 70.8404671711891,
+                    "y": 208.80001177106587
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

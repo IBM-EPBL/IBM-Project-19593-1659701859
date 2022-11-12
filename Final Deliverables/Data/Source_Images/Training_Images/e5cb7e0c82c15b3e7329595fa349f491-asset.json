@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "gif",
+        "id": "e5cb7e0c82c15b3e7329595fa349f491",
+        "name": "detect%20melanoma%20_%20MIT%20News.gif",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/detect%20melanoma%20_%20MIT%20News.gif",
+        "size": {
+            "width": 800,
+            "height": 532
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CtUIvFacm",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 169.63198608398437,
+                "width": 178.68946796355652,
+                "left": 277.3978991386218,
+                "top": 177.53600463867187
+            },
+            "points": [
+                {
+                    "x": 277.3978991386218,
+                    "y": 177.53600463867187
+                },
+                {
+                    "x": 456.08736710217835,
+                    "y": 177.53600463867187
+                },
+                {
+                    "x": 456.08736710217835,
+                    "y": 347.16799072265627
+                },
+                {
+                    "x": 277.3978991386218,
+                    "y": 347.16799072265627
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

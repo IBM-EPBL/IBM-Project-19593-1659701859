@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "aa4d926ea2b667d886bda4d14a77544e",
+        "name": "A%20rash%20on%20the%20child_s%20back.%20Symptom%20of%20roseo.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20rash%20on%20the%20child_s%20back.%20Symptom%20of%20roseo.jpg",
+        "size": {
+            "width": 204,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "PVu35vn5C",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 194.2400085449219,
+                "width": 107.8400146484375,
+                "left": 30.6,
+                "top": 56.320001220703126
+            },
+            "points": [
+                {
+                    "x": 30.6,
+                    "y": 56.320001220703126
+                },
+                {
+                    "x": 138.4400146484375,
+                    "y": 56.320001220703126
+                },
+                {
+                    "x": 138.4400146484375,
+                    "y": 250.560009765625
+                },
+                {
+                    "x": 30.6,
+                    "y": 250.560009765625
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

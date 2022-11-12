@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f713920cb2ee151f061074ed1eee77ac",
+        "name": "A%20woman_s%20hand%20is%20scratching%20her%20hand%20due%20to.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20woman_s%20hand%20is%20scratching%20her%20hand%20due%20to.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "u5CMmRAP9",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 30.400000000000002,
+                "width": 60.160009765625006,
+                "left": 182.48000488281252,
+                "top": 120.64000244140625
+            },
+            "points": [
+                {
+                    "x": 182.48000488281252,
+                    "y": 120.64000244140625
+                },
+                {
+                    "x": 242.6400146484375,
+                    "y": 120.64000244140625
+                },
+                {
+                    "x": 242.6400146484375,
+                    "y": 151.04000244140624
+                },
+                {
+                    "x": 182.48000488281252,
+                    "y": 151.04000244140624
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

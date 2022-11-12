@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bb01236c37376e9f616b2b57f61dc6c3",
+        "name": "Psoriasis%20vs.%20pityriasis%20rosea%20(1).jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20vs.%20pityriasis%20rosea%20(1).jpg",
+        "size": {
+            "width": 1100,
+            "height": 764
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "YBDimS9wK",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 393.7874319022042,
+                "width": 1003.9682872711666,
+                "left": 52.203614371163496,
+                "top": 164.15086713518414
+            },
+            "points": [
+                {
+                    "x": 52.203614371163496,
+                    "y": 164.15086713518414
+                },
+                {
+                    "x": 1056.17190164233,
+                    "y": 164.15086713518414
+                },
+                {
+                    "x": 1056.17190164233,
+                    "y": 557.9382990373883
+                },
+                {
+                    "x": 52.203614371163496,
+                    "y": 557.9382990373883
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

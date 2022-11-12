@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f2d3e1929992d114f219015aa0cb4d34",
+        "name": "Nodular%20Melanoma%20Images%20%E2%80%94%20DermNet.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Nodular%20Melanoma%20Images%20%E2%80%94%20DermNet.jpg",
+        "size": {
+            "width": 294,
+            "height": 222
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "krYtbq7el",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 104.78400774274553,
+                "width": 132.1889928922684,
+                "left": 111.42345697594307,
+                "top": 49.15714285714285
+            },
+            "points": [
+                {
+                    "x": 111.42345697594307,
+                    "y": 49.15714285714285
+                },
+                {
+                    "x": 243.61244986821148,
+                    "y": 49.15714285714285
+                },
+                {
+                    "x": 243.61244986821148,
+                    "y": 153.94115059988837
+                },
+                {
+                    "x": 111.42345697594307,
+                    "y": 153.94115059988837
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

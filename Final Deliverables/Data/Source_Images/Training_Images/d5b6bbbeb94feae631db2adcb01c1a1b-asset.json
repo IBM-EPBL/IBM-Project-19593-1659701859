@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d5b6bbbeb94feae631db2adcb01c1a1b",
+        "name": "A%20closeup%20view%20on%20the%20cheek%20of%20a%20caucasian_y.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20closeup%20view%20on%20the%20cheek%20of%20a%20caucasian_y.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "w_d9TIjT3",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 141.12000732421876,
+                "width": 143.5199951171875,
+                "left": 86.48000488281252,
+                "top": 86.72000732421876
+            },
+            "points": [
+                {
+                    "x": 86.48000488281252,
+                    "y": 86.72000732421876
+                },
+                {
+                    "x": 230,
+                    "y": 86.72000732421876
+                },
+                {
+                    "x": 230,
+                    "y": 227.84001464843752
+                },
+                {
+                    "x": 86.48000488281252,
+                    "y": 227.84001464843752
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b0466226c010a7c849391142af2fdc46",
+        "name": "Boy%20with%20red%20cheeks-%20diathesis%20or%20allergy%20symptoms.%20(1).jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Boy%20with%20red%20cheeks-%20diathesis%20or%20allergy%20symptoms.%20(1).jpg",
+        "size": {
+            "width": 406,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AUKtCL5x-",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 134.39999389648438,
+                "width": 180.79997558593752,
+                "left": 148.4400146484375,
+                "top": 45.12000122070313
+            },
+            "points": [
+                {
+                    "x": 148.4400146484375,
+                    "y": 45.12000122070313
+                },
+                {
+                    "x": 329.239990234375,
+                    "y": 45.12000122070313
+                },
+                {
+                    "x": 329.239990234375,
+                    "y": 179.5199951171875
+                },
+                {
+                    "x": 148.4400146484375,
+                    "y": 179.5199951171875
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

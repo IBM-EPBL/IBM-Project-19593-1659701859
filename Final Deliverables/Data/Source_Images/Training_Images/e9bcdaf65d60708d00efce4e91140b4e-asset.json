@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "e9bcdaf65d60708d00efce4e91140b4e",
+        "name": "Red%20And%20Common%20Rosacea%20Misdiagnosis.png",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Red%20And%20Common%20Rosacea%20Misdiagnosis.png",
+        "size": {
+            "width": 629,
+            "height": 400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Wh_qSF8Rw",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 198.68655987639923,
+                "width": 184.28386368290072,
+                "left": 262.70000728484126,
+                "top": 131.54478158523787
+            },
+            "points": [
+                {
+                    "x": 262.70000728484126,
+                    "y": 131.54478158523787
+                },
+                {
+                    "x": 446.98387096774195,
+                    "y": 131.54478158523787
+                },
+                {
+                    "x": 446.98387096774195,
+                    "y": 330.2313414616371
+                },
+                {
+                    "x": 262.70000728484126,
+                    "y": 330.2313414616371
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

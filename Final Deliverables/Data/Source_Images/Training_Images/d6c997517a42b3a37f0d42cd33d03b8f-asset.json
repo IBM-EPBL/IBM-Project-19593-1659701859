@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d6c997517a42b3a37f0d42cd33d03b8f",
+        "name": "Malignant%20Melanoma%20of%20Skin_%20Symptoms.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Malignant%20Melanoma%20of%20Skin_%20Symptoms.jpg",
+        "size": {
+            "width": 408,
+            "height": 368
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "m0-ynoCCT",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 119.4423081752232,
+                "width": 137.12164306640625,
+                "left": 126.00155922801224,
+                "top": 163.1817110770089
+            },
+            "points": [
+                {
+                    "x": 126.00155922801224,
+                    "y": 163.1817110770089
+                },
+                {
+                    "x": 263.1232022944185,
+                    "y": 163.1817110770089
+                },
+                {
+                    "x": 263.1232022944185,
+                    "y": 282.62401925223213
+                },
+                {
+                    "x": 126.00155922801224,
+                    "y": 282.62401925223213
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

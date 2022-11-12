@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ca2eab8e303261d69ccc6a149e8859f7",
+        "name": "conceptual%20image%20of%20patient%20being%20embarrassed%20at%20ha.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/conceptual%20image%20of%20patient%20being%20embarrassed%20at%20ha.jpg",
+        "size": {
+            "width": 173,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "bahiEQWWV",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 82.24000244140626,
+                "width": 32.60232410034462,
+                "left": 122.35854503464202,
+                "top": 96.64000244140625
+            },
+            "points": [
+                {
+                    "x": 122.35854503464202,
+                    "y": 96.64000244140625
+                },
+                {
+                    "x": 154.96086913498664,
+                    "y": 96.64000244140625
+                },
+                {
+                    "x": 154.96086913498664,
+                    "y": 178.8800048828125
+                },
+                {
+                    "x": 122.35854503464202,
+                    "y": 178.8800048828125
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

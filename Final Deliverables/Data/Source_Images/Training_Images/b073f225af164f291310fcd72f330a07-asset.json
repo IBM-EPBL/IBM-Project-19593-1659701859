@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b073f225af164f291310fcd72f330a07",
+        "name": "Wandering%20flush%20Lyme%20borreliosis%20of%20the%20leg%20of_yyth.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Wandering%20flush%20Lyme%20borreliosis%20of%20the%20leg%20of_yyth.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "zLRHb1W4F",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 70.32000122070313,
+                "width": 22.68000488281248,
+                "left": 181.71999511718752,
+                "top": 49.279998779296875
+            },
+            "points": [
+                {
+                    "x": 181.71999511718752,
+                    "y": 49.279998779296875
+                },
+                {
+                    "x": 204.4,
+                    "y": 49.279998779296875
+                },
+                {
+                    "x": 204.4,
+                    "y": 119.60000000000001
+                },
+                {
+                    "x": 181.71999511718752,
+                    "y": 119.60000000000001
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

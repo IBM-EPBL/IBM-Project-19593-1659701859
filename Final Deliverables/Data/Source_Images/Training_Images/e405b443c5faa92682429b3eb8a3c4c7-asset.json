@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e405b443c5faa92682429b3eb8a3c4c7",
+        "name": "Early-Stage%20Melanoma_%20Skin%20Cancer%20Treatment.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Early-Stage%20Melanoma_%20Skin%20Cancer%20Treatment.jpg",
+        "size": {
+            "width": 1500,
+            "height": 1125
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "b-GnV3TxA",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 402.10716247558594,
+                "width": 687.3661670235546,
+                "left": 448.193274422427,
+                "top": 413.0357142857143
+            },
+            "points": [
+                {
+                    "x": 448.193274422427,
+                    "y": 413.0357142857143
+                },
+                {
+                    "x": 1135.5594414459815,
+                    "y": 413.0357142857143
+                },
+                {
+                    "x": 1135.5594414459815,
+                    "y": 815.1428767613003
+                },
+                {
+                    "x": 448.193274422427,
+                    "y": 815.1428767613003
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

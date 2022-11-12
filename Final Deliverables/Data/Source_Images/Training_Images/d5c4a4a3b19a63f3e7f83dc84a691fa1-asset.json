@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d5c4a4a3b19a63f3e7f83dc84a691fa1",
+        "name": "Dermoscopy%20image%20of%20invasive%20melanoma.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Dermoscopy%20image%20of%20invasive%20melanoma.jpg",
+        "size": {
+            "width": 640,
+            "height": 640
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vnCmwOhUd",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 189.43998325892858,
+                "width": 253.80574776785713,
+                "left": 327.954296875,
+                "top": 344.50287388392854
+            },
+            "points": [
+                {
+                    "x": 327.954296875,
+                    "y": 344.50287388392854
+                },
+                {
+                    "x": 581.7600446428571,
+                    "y": 344.50287388392854
+                },
+                {
+                    "x": 581.7600446428571,
+                    "y": 533.9428571428572
+                },
+                {
+                    "x": 327.954296875,
+                    "y": 533.9428571428572
+                }
+            ]
+        },
+        {
+            "id": "2fx21_Tma",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 103.13141741071428,
+                "width": 67.29146205357142,
+                "left": 183.13141741071428,
+                "top": 422.03431919642856
+            },
+            "points": [
+                {
+                    "x": 183.13141741071428,
+                    "y": 422.03431919642856
+                },
+                {
+                    "x": 250.4228794642857,
+                    "y": 422.03431919642856
+                },
+                {
+                    "x": 250.4228794642857,
+                    "y": 525.1657366071429
+                },
+                {
+                    "x": 183.13141741071428,
+                    "y": 525.1657366071429
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

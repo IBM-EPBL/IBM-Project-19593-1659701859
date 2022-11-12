@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fc79ca4ed18622d4e37e0419c4143860",
+        "name": "Palmar%20erythema%20often%20called%20liver%20palms%20in%20both_yy.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Palmar%20erythema%20often%20called%20liver%20palms%20in%20both_yy.jpg",
+        "size": {
+            "width": 384,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "IQ5mk3FQY",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 102.71999511718751,
+                "width": 86.0800048828125,
+                "left": 206.560009765625,
+                "top": 110.0800048828125
+            },
+            "points": [
+                {
+                    "x": 206.560009765625,
+                    "y": 110.0800048828125
+                },
+                {
+                    "x": 292.6400146484375,
+                    "y": 110.0800048828125
+                },
+                {
+                    "x": 292.6400146484375,
+                    "y": 212.8
+                },
+                {
+                    "x": 206.560009765625,
+                    "y": 212.8
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

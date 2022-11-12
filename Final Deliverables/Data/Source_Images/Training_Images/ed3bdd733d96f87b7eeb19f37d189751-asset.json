@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ed3bdd733d96f87b7eeb19f37d189751",
+        "name": "How%20to%20Protect%20My%20Skin%20with%20Rosacea%20in.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/How%20to%20Protect%20My%20Skin%20with%20Rosacea%20in.jpg",
+        "size": {
+            "width": 1105,
+            "height": 380
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Srl8dWjqM",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 93.21545679924897,
+                "width": 124.12905785345262,
+                "left": 579.758064516129,
+                "top": 17.674717349900725
+            },
+            "points": [
+                {
+                    "x": 579.758064516129,
+                    "y": 17.674717349900725
+                },
+                {
+                    "x": 703.8871223695817,
+                    "y": 17.674717349900725
+                },
+                {
+                    "x": 703.8871223695817,
+                    "y": 110.89017414914969
+                },
+                {
+                    "x": 579.758064516129,
+                    "y": 110.89017414914969
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

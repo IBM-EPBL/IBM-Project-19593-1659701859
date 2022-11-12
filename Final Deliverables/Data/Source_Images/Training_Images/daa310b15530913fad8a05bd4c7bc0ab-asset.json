@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "daa310b15530913fad8a05bd4c7bc0ab",
+        "name": "Concept%20of%20monkeypox%20epidemic_%20white%20man%20Skin%20eryth%20(1).jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Concept%20of%20monkeypox%20epidemic_%20white%20man%20Skin%20eryth%20(1).jpg",
+        "size": {
+            "width": 462,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "A_dZgO3YA",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 77.2413927036393,
+                "width": 88.01670631828526,
+                "left": 99.32561937364727,
+                "top": 166.68338357094314
+            },
+            "points": [
+                {
+                    "x": 99.32561937364727,
+                    "y": 166.68338357094314
+                },
+                {
+                    "x": 187.34232569193253,
+                    "y": 166.68338357094314
+                },
+                {
+                    "x": 187.34232569193253,
+                    "y": 243.92477627458246
+                },
+                {
+                    "x": 99.32561937364727,
+                    "y": 243.92477627458246
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

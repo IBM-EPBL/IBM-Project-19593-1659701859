@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bcdde378f77f46082bdf459735cbfe14",
+        "name": "An%20extreme%20closeup%20view%20on%20the%20closed%20eye%20of.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/An%20extreme%20closeup%20view%20on%20the%20closed%20eye%20of.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9L2-qq4ZF",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 49.6,
+                "width": 69.12000732421875,
+                "left": 49.240002441406254,
+                "top": 210.8800048828125
+            },
+            "points": [
+                {
+                    "x": 49.240002441406254,
+                    "y": 210.8800048828125
+                },
+                {
+                    "x": 118.36000976562501,
+                    "y": 210.8800048828125
+                },
+                {
+                    "x": 118.36000976562501,
+                    "y": 260.4800048828125
+                },
+                {
+                    "x": 49.240002441406254,
+                    "y": 260.4800048828125
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

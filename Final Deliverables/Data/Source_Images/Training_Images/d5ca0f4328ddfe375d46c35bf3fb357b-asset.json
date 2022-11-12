@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d5ca0f4328ddfe375d46c35bf3fb357b",
+        "name": "Psoriasis_%20Symptoms%20and%20Complications%20(1).jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20Symptoms%20and%20Complications%20(1).jpg",
+        "size": {
+            "width": 2144,
+            "height": 1397
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kG0vTBNef",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 668.9519792515598,
+                "width": 614.0640559102625,
+                "left": 645.8122327495314,
+                "top": 271.8119906857717
+            },
+            "points": [
+                {
+                    "x": 645.8122327495314,
+                    "y": 271.8119906857717
+                },
+                {
+                    "x": 1259.8762886597938,
+                    "y": 271.8119906857717
+                },
+                {
+                    "x": 1259.8762886597938,
+                    "y": 940.7639699373315
+                },
+                {
+                    "x": 645.8122327495314,
+                    "y": 940.7639699373315
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

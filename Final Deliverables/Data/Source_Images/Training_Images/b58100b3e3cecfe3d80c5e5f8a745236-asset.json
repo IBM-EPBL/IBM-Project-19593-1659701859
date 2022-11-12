@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b58100b3e3cecfe3d80c5e5f8a745236",
+        "name": "An%20Erythema%20Migrans%20rash%20often%20seen%20in%20the%20e.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/An%20Erythema%20Migrans%20rash%20often%20seen%20in%20the%20e.jpg",
+        "size": {
+            "width": 260,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "zPRWdXi2Z",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 94.4,
+                "width": 90.56000976562501,
+                "left": 126.3199951171875,
+                "top": 35.84000244140625
+            },
+            "points": [
+                {
+                    "x": 126.3199951171875,
+                    "y": 35.84000244140625
+                },
+                {
+                    "x": 216.8800048828125,
+                    "y": 35.84000244140625
+                },
+                {
+                    "x": 216.8800048828125,
+                    "y": 130.24000244140626
+                },
+                {
+                    "x": 126.3199951171875,
+                    "y": 130.24000244140626
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

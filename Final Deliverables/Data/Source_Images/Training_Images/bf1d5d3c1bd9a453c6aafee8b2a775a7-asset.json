@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bf1d5d3c1bd9a453c6aafee8b2a775a7",
+        "name": "A%20case%20of%20erythema%20nodosum%20in%20a%20female%20Stock.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20case%20of%20erythema%20nodosum%20in%20a%20female%20Stock.jpg",
+        "size": {
+            "width": 199,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "oYqKSMPgg",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 97.92000122070313,
+                "width": 78.00161130361289,
+                "left": 91.56798164337035,
+                "top": 54.720001220703125
+            },
+            "points": [
+                {
+                    "x": 91.56798164337035,
+                    "y": 54.720001220703125
+                },
+                {
+                    "x": 169.56959294698322,
+                    "y": 54.720001220703125
+                },
+                {
+                    "x": 169.56959294698322,
+                    "y": 152.64000244140627
+                },
+                {
+                    "x": 91.56798164337035,
+                    "y": 152.64000244140627
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

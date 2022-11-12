@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d73dc394d863a3d285327470d9dbc2b6",
+        "name": "Erythema%20appearing%20around%20the%20tick%20bite%20on%20the_yyth.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Erythema%20appearing%20around%20the%20tick%20bite%20on%20the_yyth.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "lxy4xEjX8",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 53.75999755859375,
+                "width": 55.3599853515625,
+                "left": 194.96000976562502,
+                "top": 110.0800048828125
+            },
+            "points": [
+                {
+                    "x": 194.96000976562502,
+                    "y": 110.0800048828125
+                },
+                {
+                    "x": 250.31999511718752,
+                    "y": 110.0800048828125
+                },
+                {
+                    "x": 250.31999511718752,
+                    "y": 163.84000244140626
+                },
+                {
+                    "x": 194.96000976562502,
+                    "y": 163.84000244140626
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

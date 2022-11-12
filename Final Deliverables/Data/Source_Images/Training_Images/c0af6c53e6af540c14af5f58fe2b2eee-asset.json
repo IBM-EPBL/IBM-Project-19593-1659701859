@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c0af6c53e6af540c14af5f58fe2b2eee",
+        "name": "Psoriasis%20and%20Skin%20Cancer.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20and%20Skin%20Cancer.jpg",
+        "size": {
+            "width": 555,
+            "height": 370
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "GapPvan2m",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 188.17144470214845,
+                "width": 210.16001935686384,
+                "left": 211.0585649762835,
+                "top": 106.56000322614398
+            },
+            "points": [
+                {
+                    "x": 211.0585649762835,
+                    "y": 106.56000322614398
+                },
+                {
+                    "x": 421.2185843331473,
+                    "y": 106.56000322614398
+                },
+                {
+                    "x": 421.2185843331473,
+                    "y": 294.7314479282924
+                },
+                {
+                    "x": 211.0585649762835,
+                    "y": 294.7314479282924
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

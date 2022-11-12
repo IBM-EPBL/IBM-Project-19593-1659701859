@@ -1,0 +1,2493 @@
+{
+    "name": "Annotations",
+    "securityToken": "Annotations Token",
+    "sourceConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNThmOTg2OTVlZDZjYmViZTEyM2FjZDFmNDdjMjIwY2JlYTNhOTI2NjJkMTU3NDdkMThkMzYxZTA4OTlhNDE0NmI3MzllMDkyN2ZlMTRkMDYxMDgzYTU1MGU0NzJkYzUxMmI5M2E3N2U2YTVjMmRkNDRkMjc2NTQzYWM1OTIyNTc0MjA1OTg2MWY3OWIwOWUxM2ZjMGU4NjA0ZGUzZGIwMzYwNTJlOGU1NzQ0YWRhNmM4NzVlYTk4YjUxYmEyZGMwYWQ1NzgyMzVmY2NiYWEyMGYyY2E4YjRjMjdlNDJjNjdkMzQ3M2U3Yzk2ZjU4YWJkNTFmNzM3MGQ5MDhmMTM1MWUwY2ZjMGY5NjM0Njk4MjQ3ZjJiYzFhNzk5N2JjYTdkOGU5NjYxOTc1ZDgxNjA3NTAwMzJhNGYzMDIwNzMwNzQiLCJpdiI6ImI3Mzg3NjZkNDdhNmQ4NGNjNDdmMmE2Yzk0MTdjMDZlNTJmYjViMGZhYTVjYjI2MiJ9"
+        },
+        "id": "K7g-pXwRT"
+    },
+    "targetConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNDViMDcxODVhZjEzN2QyOTExNDQxNzVkYzA5ZjJhMmFkMGI2ZTI3NjZhN2U2MWY4MWUwNTRhZmI5ZGJkNjU0Y2I4NTJkOGNiZjRiMDI3MjdhZTVlMjUxMzY2MjVjN2JmNWZiMDQxOTBkMjg3ZmJlMGM0M2RkYTgyZDA5YTNhNDI4M2I5YTBmODQ1ZmExOGIzYmY4NTIzZDNhMWU1MTdhZDQyZDQ1ODc1YTExNGVjOGUyZjBmZDY2YTkzMDNmY2EzNjg3ZjAyOGMwNTJkODYwOTk0YjQ5ODViNGY3ZjliZTUzNjY2Y2RlNTUyMzIyNGRkYTlhMzViZWYzMmExNTI3OThkMmYyM2EzMjI2M2U1OTU0YjFmNDNmMDAzNDExN2YwOTA3YzllMTYyNzI2NWViMjYzNjNiNDJlZmI3NTZlNmIiLCJpdiI6IjRjZjQ2MWFhNWY3OTg2MmI1ZjFlMzY0ODRhZWFjZmE3MmFmMTJhZDgzNTFiMmIyZSJ9"
+        },
+        "id": "K7g-pXwRT"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Rosacea",
+            "color": "#5db300"
+        },
+        {
+            "name": "Psoriasis",
+            "color": "#e81123"
+        },
+        {
+            "name": "Melanoma",
+            "color": "#6917aa"
+        },
+        {
+            "name": "Eczema",
+            "color": "#008000"
+        }
+    ],
+    "id": "gbRnltf14",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZGViMTk4YjE4YjljMmRmZmVlY2VjNjViYThmYjFkOGZlY2NlYWE5NjhmODFiNWJmMjg5YTEwZDA2MjAyYjE2Mzc2ZWUzNmQ1OTJjMDZhZTFkNWY3MTRhOGM4NzJhYjM4IiwiaXYiOiIzZWRjOTYwNGJkYzk0MDY5NGU2MjcxYjkyZTU5YmNiNjY5ZTY5ZTQxNGZhNmZiYTIifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "0088d77583981be8a645634fef331bae",
+    "assets": {
+        "80b3525cb3e8e907ccb05a1f381f23be": {
+            "format": "jpg",
+            "id": "80b3525cb3e8e907ccb05a1f381f23be",
+            "name": "8%20years%20old%20child%20with%20red%20cheeks-%20enterovirus_yyth.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/8%20years%20old%20child%20with%20red%20cheeks-%20enterovirus_yyth.jpg",
+            "size": {
+                "width": 402,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "55a6048be45129e5b5c4a51c80f3e5f9": {
+            "format": "jpg",
+            "id": "55a6048be45129e5b5c4a51c80f3e5f9",
+            "name": "A%20close%20up%20view%20on%20the%20face%20of%20a%20youn.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20close%20up%20view%20on%20the%20face%20of%20a%20youn.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "81296bc8a91f9914b0b8c472e94e9c66": {
+            "format": "jpg",
+            "id": "81296bc8a91f9914b0b8c472e94e9c66",
+            "name": "1816456.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/1816456.jpg",
+            "size": {
+                "width": 1000,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "30e19c9b50e443b49ea3a326cb9ea2b3": {
+            "format": "jpg",
+            "id": "30e19c9b50e443b49ea3a326cb9ea2b3",
+            "name": "A%20case%20of%20early%20rosacea%20on%20a%20woman_s%20face._y.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20case%20of%20early%20rosacea%20on%20a%20woman_s%20face._y.jpg",
+            "size": {
+                "width": 403,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cd31a655cf598202e44d4b1eedac14eb": {
+            "format": "jpg",
+            "id": "cd31a655cf598202e44d4b1eedac14eb",
+            "name": "About%20Psoriasis%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/About%20Psoriasis%20(1).jpg",
+            "size": {
+                "width": 850,
+                "height": 478
+            },
+            "state": 2,
+            "type": 1
+        },
+        "299ab8ac84bbbda2c6b5d08cb6ef68f2": {
+            "format": "jpg",
+            "id": "299ab8ac84bbbda2c6b5d08cb6ef68f2",
+            "name": "Acne%20vs.%20Rosacea.%20How%20to%20Combat%20Both.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Acne%20vs.%20Rosacea.%20How%20to%20Combat%20Both.jpg",
+            "size": {
+                "width": 1105,
+                "height": 380
+            },
+            "state": 2,
+            "type": 1
+        },
+        "18b80944580abe579fe1f41815f984dc": {
+            "format": "jpg",
+            "id": "18b80944580abe579fe1f41815f984dc",
+            "name": "Do%20I%20Have%20Psoriasis_%20-%20Skin%20Care%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Do%20I%20Have%20Psoriasis_%20-%20Skin%20Care%20(1).jpg",
+            "size": {
+                "width": 1000,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5c65cabb3e30ce9fc6707356c52fe37c": {
+            "format": "jpg",
+            "id": "5c65cabb3e30ce9fc6707356c52fe37c",
+            "name": "Five%20Ways%20to%20Manage%20Your%20Plaque%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Five%20Ways%20to%20Manage%20Your%20Plaque%20(1).jpg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "053cecb21206fe848108c23973d16eb7": {
+            "format": "jpg",
+            "id": "053cecb21206fe848108c23973d16eb7",
+            "name": "My%20First%20Video%20Makeup%20Tutorial_%20For.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/My%20First%20Video%20Makeup%20Tutorial_%20For.jpg",
+            "size": {
+                "width": 620,
+                "height": 619
+            },
+            "state": 2,
+            "type": 1
+        },
+        "415cd2fddd8b182521b4fc34f6db70fa": {
+            "format": "png",
+            "id": "415cd2fddd8b182521b4fc34f6db70fa",
+            "name": "Melanoma_%20Hematologic%20Cancers%20(1).png",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Melanoma_%20Hematologic%20Cancers%20(1).png",
+            "size": {
+                "width": 491,
+                "height": 238
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4d213c95de5564d5e838782f990fa1b3": {
+            "format": "jpg",
+            "id": "4d213c95de5564d5e838782f990fa1b3",
+            "name": "3_604%20Rosacea%20Stock%20Photos_%20Pictures.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/3_604%20Rosacea%20Stock%20Photos_%20Pictures.jpg",
+            "size": {
+                "width": 612,
+                "height": 408
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0eb06ad2737e4e12e81e99931971d134": {
+            "format": "jpg",
+            "id": "0eb06ad2737e4e12e81e99931971d134",
+            "name": "Psoriasis%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20(1).jpg",
+            "size": {
+                "width": 683,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6cf735a8cfefd93a6b4440d49dda6f18": {
+            "format": "jpg",
+            "id": "6cf735a8cfefd93a6b4440d49dda6f18",
+            "name": "Psoriasis%20-%20Clear%20Dermatology.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20Clear%20Dermatology.jpg",
+            "size": {
+                "width": 1024,
+                "height": 506
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3fa2fb8ad7050db4886ec5d9f7665772": {
+            "format": "jpg",
+            "id": "3fa2fb8ad7050db4886ec5d9f7665772",
+            "name": "Psoriasis%20-%20Dermatologist%20in%20East%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20Dermatologist%20in%20East%20(1).jpg",
+            "size": {
+                "width": 1024,
+                "height": 665
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4514d6a24c17ad993f3ae5178f3161be": {
+            "format": "jpg",
+            "id": "4514d6a24c17ad993f3ae5178f3161be",
+            "name": "Psoriasis%20-%20HUDSON%20DERMATOLOGY%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20HUDSON%20DERMATOLOGY%20(1).jpg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7b78f0a53451b1fdd9e53a07e3c1a6af": {
+            "format": "jpg",
+            "id": "7b78f0a53451b1fdd9e53a07e3c1a6af",
+            "name": "Psoriasis%20-%20Pariser%20Dermatology%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20Pariser%20Dermatology%20(1).jpg",
+            "size": {
+                "width": 369,
+                "height": 235
+            },
+            "state": 2,
+            "type": 1
+        },
+        "70d55ad9309df0f9c5232eec64ff8d6c": {
+            "format": "jpg",
+            "id": "70d55ad9309df0f9c5232eec64ff8d6c",
+            "name": "Psoriasis%20-%20Skin%20Conditions%20We%20Treat%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20-%20Skin%20Conditions%20We%20Treat%20(1).jpg",
+            "size": {
+                "width": 900,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c0af6c53e6af540c14af5f58fe2b2eee": {
+            "format": "jpg",
+            "id": "c0af6c53e6af540c14af5f58fe2b2eee",
+            "name": "Psoriasis%20and%20Skin%20Cancer.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20and%20Skin%20Cancer.jpg",
+            "size": {
+                "width": 555,
+                "height": 370
+            },
+            "state": 2,
+            "type": 1
+        },
+        "798a53a452b436ea78303df1723caad2": {
+            "format": "jpeg",
+            "id": "798a53a452b436ea78303df1723caad2",
+            "name": "Psoriasis%20Diagnosis%20&%20Treatment%20in%20Boca%20(1).jpeg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Diagnosis%20&%20Treatment%20in%20Boca%20(1).jpeg",
+            "size": {
+                "width": 776,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a0c8ac27702b50b115650c15a72fcbff": {
+            "format": "jpg",
+            "id": "a0c8ac27702b50b115650c15a72fcbff",
+            "name": "Psoriasis%20Diagnosis%20&%20Treatment.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Diagnosis%20&%20Treatment.jpg",
+            "size": {
+                "width": 400,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "34c5666bb03c5d89fe83f7137b988e3e": {
+            "format": "jpg",
+            "id": "34c5666bb03c5d89fe83f7137b988e3e",
+            "name": "Psoriasis%20May%20Differ%20in%20Darker%20Skin%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20May%20Differ%20in%20Darker%20Skin%20(1).jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0fe451e982fef3fcce0a7a77c978aa57": {
+            "format": "jpg",
+            "id": "0fe451e982fef3fcce0a7a77c978aa57",
+            "name": "Psoriasis%20or%20skin%20cancer_%20How%20to%20tell%20(4).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20or%20skin%20cancer_%20How%20to%20tell%20(4).jpg",
+            "size": {
+                "width": 1100,
+                "height": 734
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ada58d77be9a575e81040c1009aa67cd": {
+            "format": "jpg",
+            "id": "ada58d77be9a575e81040c1009aa67cd",
+            "name": "Psoriasis%20or%20skin%20cancer_%20How%20to%20tell.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20or%20skin%20cancer_%20How%20to%20tell.jpg",
+            "size": {
+                "width": 732,
+                "height": 549
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ce37ac2139e4af2134a8be60351db661": {
+            "format": "jpg",
+            "id": "ce37ac2139e4af2134a8be60351db661",
+            "name": "Psoriasis%20Rash_%20Pictures_%20Causes%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Rash_%20Pictures_%20Causes%20(1).jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 1,
+            "type": 1
+        },
+        "4aaf4d14351aa52f03b44c40b96fb91b": {
+            "format": "jpg",
+            "id": "4aaf4d14351aa52f03b44c40b96fb91b",
+            "name": "Psoriasis%20Scaly%20Rash%20Treatment%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Scaly%20Rash%20Treatment%20(1).jpg",
+            "size": {
+                "width": 2560,
+                "height": 892
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e93e2ec576c4e2afcd7eb58e7283eaa7": {
+            "format": "jpg",
+            "id": "e93e2ec576c4e2afcd7eb58e7283eaa7",
+            "name": "Psoriasis%20Treatment%20-%20Dr%20HM%20Liew%20Skin.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Treatment%20-%20Dr%20HM%20Liew%20Skin.jpg",
+            "size": {
+                "width": 600,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f0f768b5dcbc8ac8930dbeb6b1b4bc4c": {
+            "format": "jpg",
+            "id": "f0f768b5dcbc8ac8930dbeb6b1b4bc4c",
+            "name": "Psoriasis%20Treatment-%20Philadelphia%20PA%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Treatment-%20Philadelphia%20PA%20(1).jpg",
+            "size": {
+                "width": 600,
+                "height": 440
+            },
+            "state": 1,
+            "type": 1
+        },
+        "a06bb26afe51d6c8ac4726c3deffc33a": {
+            "format": "jpg",
+            "id": "a06bb26afe51d6c8ac4726c3deffc33a",
+            "name": "Psoriasis%20Types_%20Images_%20Treatments%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Types_%20Images_%20Treatments%20(1).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 1,
+            "type": 1
+        },
+        "bb01236c37376e9f616b2b57f61dc6c3": {
+            "format": "jpg",
+            "id": "bb01236c37376e9f616b2b57f61dc6c3",
+            "name": "Psoriasis%20vs.%20pityriasis%20rosea%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20vs.%20pityriasis%20rosea%20(1).jpg",
+            "size": {
+                "width": 1100,
+                "height": 764
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8be8ce295a1f84e84c4c19cbcb0a9755": {
+            "format": "jpg",
+            "id": "8be8ce295a1f84e84c4c19cbcb0a9755",
+            "name": "Psoriasis%20vs.%20Skin%20Cancer_%20Pictures%20(14).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20vs.%20Skin%20Cancer_%20Pictures%20(14).jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1f99dbc5a406b62b3e0bb879c0b3e816": {
+            "format": "jpg",
+            "id": "1f99dbc5a406b62b3e0bb879c0b3e816",
+            "name": "Psoriasis%20vs.%20Skin%20Cancer_%20Pictures%20(15).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20vs.%20Skin%20Cancer_%20Pictures%20(15).jpg",
+            "size": {
+                "width": 1155,
+                "height": 604
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1d4cdf0f44712a05f42a36b9f81f66e6": {
+            "format": "jpg",
+            "id": "1d4cdf0f44712a05f42a36b9f81f66e6",
+            "name": "Psoriasis%20vs.%20Skin%20Cancer_%20Pictures%20(17).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20vs.%20Skin%20Cancer_%20Pictures%20(17).jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d896fc05933e5e20bb8f519292d10d8": {
+            "format": "jpg",
+            "id": "8d896fc05933e5e20bb8f519292d10d8",
+            "name": "Psoriasis%20vs.%20Skin%20Cancer_%20Pictures%20(2).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20vs.%20Skin%20Cancer_%20Pictures%20(2).jpg",
+            "size": {
+                "width": 732,
+                "height": 549
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d46265f513b8f13e5b3f60c864e67d4": {
+            "format": "jpg",
+            "id": "6d46265f513b8f13e5b3f60c864e67d4",
+            "name": "Psoriasis%20_%20Beacon%20Health%20System%20(2).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20_%20Beacon%20Health%20System%20(2).jpg",
+            "size": {
+                "width": 468,
+                "height": 392
+            },
+            "state": 2,
+            "type": 1
+        },
+        "90185a0533ae29cfffb49a7d7e7734c9": {
+            "format": "jpg",
+            "id": "90185a0533ae29cfffb49a7d7e7734c9",
+            "name": "Psoriasis%20_%20Beacon%20Health%20System%20(4).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20_%20Beacon%20Health%20System%20(4).jpg",
+            "size": {
+                "width": 632,
+                "height": 264
+            },
+            "state": 1,
+            "type": 1
+        },
+        "1f0485ea07be6610fe5da79124964b2a": {
+            "format": "jpg",
+            "id": "1f0485ea07be6610fe5da79124964b2a",
+            "name": "Psoriasis%20_%20Pure%20Dermatology%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20_%20Pure%20Dermatology%20(1).jpg",
+            "size": {
+                "width": 1024,
+                "height": 683
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d5ca0f4328ddfe375d46c35bf3fb357b": {
+            "format": "jpg",
+            "id": "d5ca0f4328ddfe375d46c35bf3fb357b",
+            "name": "Psoriasis_%20Symptoms%20and%20Complications%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20Symptoms%20and%20Complications%20(1).jpg",
+            "size": {
+                "width": 2144,
+                "height": 1397
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a507b5007b13884c85aeebbabd88a140": {
+            "format": "png",
+            "id": "a507b5007b13884c85aeebbabd88a140",
+            "name": "Psoriatic%20Plaque%20on%20the%20Elbow%20(1).png",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriatic%20Plaque%20on%20the%20Elbow%20(1).png",
+            "size": {
+                "width": 1126,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "48e39a660fe3d2781fd3e67ffe5c9f14": {
+            "format": "jpg",
+            "id": "48e39a660fe3d2781fd3e67ffe5c9f14",
+            "name": "5%20Best%20Ways%20to%20Manage%20Your%20Rosacea%20in.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/5%20Best%20Ways%20to%20Manage%20Your%20Rosacea%20in.jpg",
+            "size": {
+                "width": 1105,
+                "height": 380
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a236f913a26dd0ec53f08afbc3235d6a": {
+            "format": "jpg",
+            "id": "a236f913a26dd0ec53f08afbc3235d6a",
+            "name": "A%20before%20and%20after%20view%20of%20a%20beautiful%20young.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20before%20and%20after%20view%20of%20a%20beautiful%20young.jpg",
+            "size": {
+                "width": 235,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2050ebdc1db7a7d3f77d9143f2dccd2d": {
+            "format": "jpg",
+            "id": "2050ebdc1db7a7d3f77d9143f2dccd2d",
+            "name": "A%20case%20of%20erythema%20multiforme%20in%20a%20child%20Sto.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20case%20of%20erythema%20multiforme%20in%20a%20child%20Sto.jpg",
+            "size": {
+                "width": 451,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bf1d5d3c1bd9a453c6aafee8b2a775a7": {
+            "format": "jpg",
+            "id": "bf1d5d3c1bd9a453c6aafee8b2a775a7",
+            "name": "A%20case%20of%20erythema%20nodosum%20in%20a%20female%20Stock.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20case%20of%20erythema%20nodosum%20in%20a%20female%20Stock.jpg",
+            "size": {
+                "width": 199,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7fc82838bd96a4c9727fc13d4bf0d363": {
+            "format": "jpg",
+            "id": "7fc82838bd96a4c9727fc13d4bf0d363",
+            "name": "A%20case%20of%20Lyme%20disease%20(erythema%20migrans)%20after_yyt%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20case%20of%20Lyme%20disease%20(erythema%20migrans)%20after_yyt%20(1).jpg",
+            "size": {
+                "width": 328,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c885553889cc0d8a99cb7222d69ed59e": {
+            "format": "jpg",
+            "id": "c885553889cc0d8a99cb7222d69ed59e",
+            "name": "A%20case%20of%20Lyme%20disease%20(erythema%20migrans)%20after_yyt.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20case%20of%20Lyme%20disease%20(erythema%20migrans)%20after_yyt.jpg",
+            "size": {
+                "width": 352,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "653a1086971373e4464a5d0e10ee9e96": {
+            "format": "jpg",
+            "id": "653a1086971373e4464a5d0e10ee9e96",
+            "name": "A%20close%20up%20view%20on%20the%20cheeks%20of%20a%20yo.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20close%20up%20view%20on%20the%20cheeks%20of%20a%20yo.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2fb24e4ff38153e4344069fe3419aac1": {
+            "format": "jpg",
+            "id": "2fb24e4ff38153e4344069fe3419aac1",
+            "name": "A%20close-up%20view%20on%20the%20cheek%20of%20a%20young_yyth.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20close-up%20view%20on%20the%20cheek%20of%20a%20young_yyth.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a902b03984e5d7e168eb6698db09d638": {
+            "format": "jpg",
+            "id": "a902b03984e5d7e168eb6698db09d638",
+            "name": "A%20closeup%20and%20high%20angle%20view%20of%20a%20pretty_yy.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20closeup%20and%20high%20angle%20view%20of%20a%20pretty_yy.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d043bc7dc42c09660f1e7cb42b8d9f4d": {
+            "format": "jpg",
+            "id": "d043bc7dc42c09660f1e7cb42b8d9f4d",
+            "name": "A%20closeup%20and%20side%20profile%20view%20of%20a%20mature_.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20closeup%20and%20side%20profile%20view%20of%20a%20mature_.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d5b6bbbeb94feae631db2adcb01c1a1b": {
+            "format": "jpg",
+            "id": "d5b6bbbeb94feae631db2adcb01c1a1b",
+            "name": "A%20closeup%20view%20on%20the%20cheek%20of%20a%20caucasian_y.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20closeup%20view%20on%20the%20cheek%20of%20a%20caucasian_y.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "45d30eeb585f63a588ac9977e50a9535": {
+            "format": "jpg",
+            "id": "45d30eeb585f63a588ac9977e50a9535",
+            "name": "A%20closeup%20view%20on%20the%20face%20of%20a%20Caucasian_yy.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20closeup%20view%20on%20the%20face%20of%20a%20Caucasian_yy.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "68c4837621b4b9b338b0fc88a43b6cc4": {
+            "format": "jpg",
+            "id": "68c4837621b4b9b338b0fc88a43b6cc4",
+            "name": "A%20macro%20view%20on%20the%20cheek%20of%20a%20young.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20macro%20view%20on%20the%20cheek%20of%20a%20young.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6daf68c9a5de9f1586632f5e799b8d06": {
+            "format": "jpg",
+            "id": "6daf68c9a5de9f1586632f5e799b8d06",
+            "name": "A%20closeup%20view%20on%20the%20face%20of%20a%20young_yythkg.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20closeup%20view%20on%20the%20face%20of%20a%20young_yythkg.jpg",
+            "size": {
+                "width": 506,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fcfb1cb7a3dd62b11c8331cc5e83939b": {
+            "format": "jpg",
+            "id": "fcfb1cb7a3dd62b11c8331cc5e83939b",
+            "name": "A%20magnified%20circle%20is%20seen%20over%20the%20cheek%20of.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20magnified%20circle%20is%20seen%20over%20the%20cheek%20of.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9eb0a9f8eba00bd764ed1b5777b0c583": {
+            "format": "jpg",
+            "id": "9eb0a9f8eba00bd764ed1b5777b0c583",
+            "name": "a%20man%20has%20a%20solar%20erythema%20because%20he%20did_yy.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/a%20man%20has%20a%20solar%20erythema%20because%20he%20did_yy.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "39101d3b8ff3ffd416300965c6123003": {
+            "format": "jpg",
+            "id": "39101d3b8ff3ffd416300965c6123003",
+            "name": "a%20newborn%20baby%20with%20a%20baby%20rash%20in%20soft_yyth.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/a%20newborn%20baby%20with%20a%20baby%20rash%20in%20soft_yyth.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "0c211c3dc52fc6bb892e1af6767cd0fb": {
+            "format": "jpg",
+            "id": "0c211c3dc52fc6bb892e1af6767cd0fb",
+            "name": "A%20nurse%20lubricating%20damaged%20eczema%20neck%20by%20healing_.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20nurse%20lubricating%20damaged%20eczema%20neck%20by%20healing_.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa4d926ea2b667d886bda4d14a77544e": {
+            "format": "jpg",
+            "id": "aa4d926ea2b667d886bda4d14a77544e",
+            "name": "A%20rash%20on%20the%20child_s%20back.%20Symptom%20of%20roseo.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20rash%20on%20the%20child_s%20back.%20Symptom%20of%20roseo.jpg",
+            "size": {
+                "width": 204,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e558d89d3d3238a7e464f9d2496e51cd": {
+            "format": "jpg",
+            "id": "e558d89d3d3238a7e464f9d2496e51cd",
+            "name": "A%20small%20child%20has%20a%20rash%20on%20his%20cheeks_yythk.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20small%20child%20has%20a%20rash%20on%20his%20cheeks_yythk.jpg",
+            "size": {
+                "width": 392,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ffdfdbbb3f14d8e071c6e2bf00222f8d": {
+            "format": "jpg",
+            "id": "ffdfdbbb3f14d8e071c6e2bf00222f8d",
+            "name": "A%20woman_s%20hand%20is%20scratching%20her%20arm%20due%20to_.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20woman_s%20hand%20is%20scratching%20her%20arm%20due%20to_.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f713920cb2ee151f061074ed1eee77ac": {
+            "format": "jpg",
+            "id": "f713920cb2ee151f061074ed1eee77ac",
+            "name": "A%20woman_s%20hand%20is%20scratching%20her%20hand%20due%20to.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20woman_s%20hand%20is%20scratching%20her%20hand%20due%20to.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "61d1f00d9ef651965d02bb772d4b4408": {
+            "format": "jpg",
+            "id": "61d1f00d9ef651965d02bb772d4b4408",
+            "name": "A%20young%20Caucasian%20girl%20in%20her%20early%2020s%20is_y.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20young%20Caucasian%20girl%20in%20her%20early%2020s%20is_y.jpg",
+            "size": {
+                "width": 260,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e90f319a6868c4fddd8d43d569af4c96": {
+            "format": "jpg",
+            "id": "e90f319a6868c4fddd8d43d569af4c96",
+            "name": "A%20young%20caucasian%20woman%20is%20seen%20closeup%20and.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20young%20caucasian%20woman%20is%20seen%20closeup%20and.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "90c159345f8a380ebd6c2aebd50d7817": {
+            "format": "jpg",
+            "id": "90c159345f8a380ebd6c2aebd50d7817",
+            "name": "allergic-contact-dermatitis-skin-reaction-260nw-1535080628.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/allergic-contact-dermatitis-skin-reaction-260nw-1535080628.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a73dd51b8f0076c2b3093918c2b35ed2": {
+            "format": "jpg",
+            "id": "a73dd51b8f0076c2b3093918c2b35ed2",
+            "name": "allergic-contact-dermatitis-skin-reaction-260nw-1535080637.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/allergic-contact-dermatitis-skin-reaction-260nw-1535080637.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "239a77293995af98f7bf1cbcb1606525": {
+            "format": "jpg",
+            "id": "239a77293995af98f7bf1cbcb1606525",
+            "name": "An%20Elusive%20Amelanotic%20Melanoma%20and.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/An%20Elusive%20Amelanotic%20Melanoma%20and.jpg",
+            "size": {
+                "width": 600,
+                "height": 708
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b58100b3e3cecfe3d80c5e5f8a745236": {
+            "format": "jpg",
+            "id": "b58100b3e3cecfe3d80c5e5f8a745236",
+            "name": "An%20Erythema%20Migrans%20rash%20often%20seen%20in%20the%20e.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/An%20Erythema%20Migrans%20rash%20often%20seen%20in%20the%20e.jpg",
+            "size": {
+                "width": 260,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bcdde378f77f46082bdf459735cbfe14": {
+            "format": "jpg",
+            "id": "bcdde378f77f46082bdf459735cbfe14",
+            "name": "An%20extreme%20closeup%20view%20on%20the%20closed%20eye%20of.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/An%20extreme%20closeup%20view%20on%20the%20closed%20eye%20of.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5ccb795503a94367caa9ea7c43880163": {
+            "format": "jpg",
+            "id": "5ccb795503a94367caa9ea7c43880163",
+            "name": "Blush%20of%20a%20tick-borne%20Lyme%20borreliosis%20disease%20on_y.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Blush%20of%20a%20tick-borne%20Lyme%20borreliosis%20disease%20on_y.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32ef14dd4405c31a14b9557ed96ef36a": {
+            "format": "jpg",
+            "id": "32ef14dd4405c31a14b9557ed96ef36a",
+            "name": "Causes%20of%20Scaly%20or%20Flaking%20Skin%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Causes%20of%20Scaly%20or%20Flaking%20Skin%20(1).jpg",
+            "size": {
+                "width": 1500,
+                "height": 917
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a55d0b26b085bba965ec97fba7cefeee": {
+            "format": "jpg",
+            "id": "a55d0b26b085bba965ec97fba7cefeee",
+            "name": "Cloue-up%20common%20rash%20in%20newborn%20usually%20between%202-5.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Cloue-up%20common%20rash%20in%20newborn%20usually%20between%202-5.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "daa310b15530913fad8a05bd4c7bc0ab": {
+            "format": "jpg",
+            "id": "daa310b15530913fad8a05bd4c7bc0ab",
+            "name": "Concept%20of%20monkeypox%20epidemic_%20white%20man%20Skin%20eryth%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Concept%20of%20monkeypox%20epidemic_%20white%20man%20Skin%20eryth%20(1).jpg",
+            "size": {
+                "width": 462,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d5c4a4a3b19a63f3e7f83dc84a691fa1": {
+            "format": "jpg",
+            "id": "d5c4a4a3b19a63f3e7f83dc84a691fa1",
+            "name": "Dermoscopy%20image%20of%20invasive%20melanoma.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Dermoscopy%20image%20of%20invasive%20melanoma.jpg",
+            "size": {
+                "width": 640,
+                "height": 640
+            },
+            "state": 2,
+            "type": 1
+        },
+        "65b35d558554b7abb8d2de0b8ad8e9f5": {
+            "format": "jpg",
+            "id": "65b35d558554b7abb8d2de0b8ad8e9f5",
+            "name": "diabetic%20ulcer%20on%20left%20foot%20Stock%20Photo.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/diabetic%20ulcer%20on%20left%20foot%20Stock%20Photo.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "559fc4a32e02c09d83c97b7dbade61ad": {
+            "format": "jpg",
+            "id": "559fc4a32e02c09d83c97b7dbade61ad",
+            "name": "Demystifying%20Skin%20Cancer%20-%20Complete.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Demystifying%20Skin%20Cancer%20-%20Complete.jpg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6f2df1a336308d85094c765b32924d24": {
+            "format": "jpeg",
+            "id": "6f2df1a336308d85094c765b32924d24",
+            "name": "Different%20Types%20of%20Psoriasis%20-%20Olansky%20(1).jpeg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Different%20Types%20of%20Psoriasis%20-%20Olansky%20(1).jpeg",
+            "size": {
+                "width": 1200,
+                "height": 627
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a36dd3ce9bfc569f8faaa939557ebe62": {
+            "format": "jpg",
+            "id": "a36dd3ce9bfc569f8faaa939557ebe62",
+            "name": "disease.%20skin%20disease.%20psoriasis.%20dermatitis.%20red%20swollen_.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/disease.%20skin%20disease.%20psoriasis.%20dermatitis.%20red%20swollen_.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8cadddd9e91221f5c4952ee46c844356": {
+            "format": "jpg",
+            "id": "8cadddd9e91221f5c4952ee46c844356",
+            "name": "Erythema%20ab%20igne%20or%20heat%20dermatitis%20also%20known_yyth.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Erythema%20ab%20igne%20or%20heat%20dermatitis%20also%20known_yyth.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cd7f062256d5a6425f218349468470d3": {
+            "format": "jpg",
+            "id": "cd7f062256d5a6425f218349468470d3",
+            "name": "erythema%20ab%20ignis%20or%20heat%20dermatitis%20Stock%20Photo.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/erythema%20ab%20ignis%20or%20heat%20dermatitis%20Stock%20Photo.jpg",
+            "size": {
+                "width": 207,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9eea793bfb00d8fc67af9c56ba39e324": {
+            "format": "jpg",
+            "id": "9eea793bfb00d8fc67af9c56ba39e324",
+            "name": "Erythema%20multiforme%20annular%20erythematous%20targetoid%20skin%20le%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Erythema%20multiforme%20annular%20erythematous%20targetoid%20skin%20le%20(1).jpg",
+            "size": {
+                "width": 146,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d73dc394d863a3d285327470d9dbc2b6": {
+            "format": "jpg",
+            "id": "d73dc394d863a3d285327470d9dbc2b6",
+            "name": "Erythema%20appearing%20around%20the%20tick%20bite%20on%20the_yyth.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Erythema%20appearing%20around%20the%20tick%20bite%20on%20the_yyth.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "41d4781fd4c73af2227861c4f202caaa": {
+            "format": "jpg",
+            "id": "41d4781fd4c73af2227861c4f202caaa",
+            "name": "Erythema%20multiforme%20annular%20erythematous%20targetoid%20skin%20le%20(2).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Erythema%20multiforme%20annular%20erythematous%20targetoid%20skin%20le%20(2).jpg",
+            "size": {
+                "width": 146,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0db5c0b8a321d78771428b4013a5d5cf": {
+            "format": "jpg",
+            "id": "0db5c0b8a321d78771428b4013a5d5cf",
+            "name": "Erythema%20multiforme%20annular%20erythematous%20targetoid%20skin%20le%20(3).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Erythema%20multiforme%20annular%20erythematous%20targetoid%20skin%20le%20(3).jpg",
+            "size": {
+                "width": 146,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0d5ccc26fa8018c05b01791c84d156eb": {
+            "format": "jpg",
+            "id": "0d5ccc26fa8018c05b01791c84d156eb",
+            "name": "Erythema%20multiforme%20skin%20lesions%20with%20some%20vesiculation_yy.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Erythema%20multiforme%20skin%20lesions%20with%20some%20vesiculation_yy.jpg",
+            "size": {
+                "width": 462,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "503c82741b3b5ff8ace139b62a80c5c5": {
+            "format": "jpg",
+            "id": "503c82741b3b5ff8ace139b62a80c5c5",
+            "name": "Erythema%20nodosum_%20red%20nodule%20or%20lump%20on%20inner_yythk.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Erythema%20nodosum_%20red%20nodule%20or%20lump%20on%20inner_yythk.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f00722388884e435438ff1f69abeb94": {
+            "format": "jpg",
+            "id": "5f00722388884e435438ff1f69abeb94",
+            "name": "Erythema%20Nodosum_%20reddish_%20painful%20lumps%20in%20legs%20St.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Erythema%20Nodosum_%20reddish_%20painful%20lumps%20in%20legs%20St.jpg",
+            "size": {
+                "width": 462,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d1ee65a6bd11d6b34a1e47af2643ee56": {
+            "format": "jpg",
+            "id": "d1ee65a6bd11d6b34a1e47af2643ee56",
+            "name": "Girl%20scratch%20the%20itch%20with%20hand_%20Arm_%20Itch_.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Girl%20scratch%20the%20itch%20with%20hand_%20Arm_%20Itch_.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ed3bdd733d96f87b7eeb19f37d189751": {
+            "format": "jpg",
+            "id": "ed3bdd733d96f87b7eeb19f37d189751",
+            "name": "How%20to%20Protect%20My%20Skin%20with%20Rosacea%20in.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/How%20to%20Protect%20My%20Skin%20with%20Rosacea%20in.jpg",
+            "size": {
+                "width": 1105,
+                "height": 380
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d0dc17f2b38f2fc42ce148003c06e2e8": {
+            "format": "jpg",
+            "id": "d0dc17f2b38f2fc42ce148003c06e2e8",
+            "name": "Lyme%20disease_%20or%20Lyme%20borreliosis_%20is%20a%20bacterial_y.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Lyme%20disease_%20or%20Lyme%20borreliosis_%20is%20a%20bacterial_y.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "02d66022b06b3f5fe92eca7cfe905e38": {
+            "format": "jpg",
+            "id": "02d66022b06b3f5fe92eca7cfe905e38",
+            "name": "Merkel%20Cell%20Carcinoma%20in%20a%20Patient%20With.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Merkel%20Cell%20Carcinoma%20in%20a%20Patient%20With.jpg",
+            "size": {
+                "width": 1039,
+                "height": 954
+            },
+            "state": 2,
+            "type": 1
+        },
+        "86ea8e854894f2fdb9aa99bb077433b8": {
+            "format": "png",
+            "id": "86ea8e854894f2fdb9aa99bb077433b8",
+            "name": "Mycosis%20Fungoides%20Increases%20Melanoma%20Risk%20(1).png",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Mycosis%20Fungoides%20Increases%20Melanoma%20Risk%20(1).png",
+            "size": {
+                "width": 1276,
+                "height": 902
+            },
+            "state": 2,
+            "type": 1
+        },
+        "95dfc97dc8ead3d75add6a23cb453a64": {
+            "format": "jpg",
+            "id": "95dfc97dc8ead3d75add6a23cb453a64",
+            "name": "Newborn%20baby%20with%20allergic%20reaction%20on%20skin.%20Skin_y.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Newborn%20baby%20with%20allergic%20reaction%20on%20skin.%20Skin_y.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "77236bdc5f44a4aa056a3a0983999b6c": {
+            "format": "jpeg",
+            "id": "77236bdc5f44a4aa056a3a0983999b6c",
+            "name": "Olansky%20Dermatology%20&%20Aesthetics%20(1).jpeg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Olansky%20Dermatology%20&%20Aesthetics%20(1).jpeg",
+            "size": {
+                "width": 1200,
+                "height": 627
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bb67a7f27584c8a2e2b2b016a8f4a5e2": {
+            "format": "jpg",
+            "id": "bb67a7f27584c8a2e2b2b016a8f4a5e2",
+            "name": "single-erythematous-nodule-left-leg-260nw-1648953295.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/single-erythematous-nodule-left-leg-260nw-1648953295.jpg",
+            "size": {
+                "width": 195,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "443d1304608618c02dc69466d65385aa": {
+            "format": "png",
+            "id": "443d1304608618c02dc69466d65385aa",
+            "name": "Skin%20cancer%20types_%20Melanoma%20Signs%20and.png",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Skin%20cancer%20types_%20Melanoma%20Signs%20and.png",
+            "size": {
+                "width": 450,
+                "height": 293
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ff66d05ff71f69d359b25eb7e55ca493": {
+            "format": "jpg",
+            "id": "ff66d05ff71f69d359b25eb7e55ca493",
+            "name": "Skin%20Disorders_%20Pictures_%20symptoms%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Skin%20Disorders_%20Pictures_%20symptoms%20(1).jpg",
+            "size": {
+                "width": 760,
+                "height": 507
+            },
+            "state": 1,
+            "type": 1
+        },
+        "00c78999321466fb07bbb166f2d98972": {
+            "format": "jpeg",
+            "id": "00c78999321466fb07bbb166f2d98972",
+            "name": "Skinworks%20Dermatology.jpeg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Skinworks%20Dermatology.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "35c177d93a8354c222a3ab1276560914": {
+            "format": "jpg",
+            "id": "35c177d93a8354c222a3ab1276560914",
+            "name": "Surgical%20Dermatologist%20Kuna_%20ID.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Surgical%20Dermatologist%20Kuna_%20ID.jpg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "00cec7d7d0aab2f1552b3dcddf783b84": {
+            "format": "jpg",
+            "id": "00cec7d7d0aab2f1552b3dcddf783b84",
+            "name": "Types%20of%20Eczema_%20Atopic%20Dermatitis.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Types%20of%20Eczema_%20Atopic%20Dermatitis.jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "050860720ce389a103554928b811e025": {
+            "format": "jpg",
+            "id": "050860720ce389a103554928b811e025",
+            "name": "Wasp%20sting.%20Red%20swollen%20arm%20closeup.%20Skin%20allergy_y.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Wasp%20sting.%20Red%20swollen%20arm%20closeup.%20Skin%20allergy_y.jpg",
+            "size": {
+                "width": 392,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "583e2ecffe0f02c0b2b7f8f174f7ff5e": {
+            "format": "jpg",
+            "id": "583e2ecffe0f02c0b2b7f8f174f7ff5e",
+            "name": "What%20is%20Inverse%20Psoriasis%E2%80%94and%20What_s%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/What%20is%20Inverse%20Psoriasis%E2%80%94and%20What_s%20(1).jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0829eaa843cffefe00d4cf9a107460c6": {
+            "format": "jpg",
+            "id": "0829eaa843cffefe00d4cf9a107460c6",
+            "name": "What%20questions%20should%20I%20ask_%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/What%20questions%20should%20I%20ask_%20(1).jpg",
+            "size": {
+                "width": 916,
+                "height": 882
+            },
+            "state": 2,
+            "type": 1
+        },
+        "667a959c8c462d137ad3fd956b4b157f": {
+            "format": "jpg",
+            "id": "667a959c8c462d137ad3fd956b4b157f",
+            "name": "Who_s%20at%20Risk%20for%20Melanoma__%20Skinworks.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Who_s%20at%20Risk%20for%20Melanoma__%20Skinworks.jpg",
+            "size": {
+                "width": 700,
+                "height": 466
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ef72fd74d08f9e2b7b70c446dcc0fba1": {
+            "format": "jpg",
+            "id": "ef72fd74d08f9e2b7b70c446dcc0fba1",
+            "name": "woman-shows-leg-varicose-veins-260nw-1376655965.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/woman-shows-leg-varicose-veins-260nw-1376655965.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e0114a3dd608516595e814428b617779": {
+            "format": "jpg",
+            "id": "e0114a3dd608516595e814428b617779",
+            "name": "Young%20woman%20with%20skin%20allergy%20on%20color%20background_y.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Young%20woman%20with%20skin%20allergy%20on%20color%20background_y.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6ff766ade4fc7bacd7f9b5cdb93e3a6d": {
+            "format": "jpg",
+            "id": "6ff766ade4fc7bacd7f9b5cdb93e3a6d",
+            "name": "Is%20That%20Rash%20Psoriasis_%20Psoriasis%20(2).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Is%20That%20Rash%20Psoriasis_%20Psoriasis%20(2).jpg",
+            "size": {
+                "width": 1440,
+                "height": 810
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4ba42e425d7377214bc5066f48100f33": {
+            "format": "jpeg",
+            "id": "4ba42e425d7377214bc5066f48100f33",
+            "name": "Los%20Gatos%20Dermatology%20(1).jpeg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Los%20Gatos%20Dermatology%20(1).jpeg",
+            "size": {
+                "width": 600,
+                "height": 342
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2f2476fe1751e205a808e7ffe0d861c2": {
+            "format": "jpg",
+            "id": "2f2476fe1751e205a808e7ffe0d861c2",
+            "name": "Pruritic%20and%20Pustular%20Eruption%20on%20the%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Pruritic%20and%20Pustular%20Eruption%20on%20the%20(1).jpg",
+            "size": {
+                "width": 1210,
+                "height": 1613
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6c119b170154b424e97a4b66ddfbb6f1": {
+            "format": "jpg",
+            "id": "6c119b170154b424e97a4b66ddfbb6f1",
+            "name": "Psoriasis%20Treatment%20-%20Windsor%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Treatment%20-%20Windsor%20(1).jpg",
+            "size": {
+                "width": 500,
+                "height": 334
+            },
+            "state": 2,
+            "type": 1
+        },
+        "635a93b031e8ec9a795caad297c6d3fb": {
+            "format": "jpg",
+            "id": "635a93b031e8ec9a795caad297c6d3fb",
+            "name": "Psoriasis%20Treatment%20in%20Phoenix_%20AZ%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20Treatment%20in%20Phoenix_%20AZ%20(1).jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6a8d2312d0db4487377ae36727b1a99d": {
+            "format": "jpg",
+            "id": "6a8d2312d0db4487377ae36727b1a99d",
+            "name": "Psoriasis%20vs.%20Skin%20Cancer_%20Pictures%20(19).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20vs.%20Skin%20Cancer_%20Pictures%20(19).jpg",
+            "size": {
+                "width": 732,
+                "height": 549
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8abc45025cc2532afb4e06d2ea06197a": {
+            "format": "jpg",
+            "id": "8abc45025cc2532afb4e06d2ea06197a",
+            "name": "Psoriasis%20_%20Best%20Orthopaedic%20Hospitals%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20_%20Best%20Orthopaedic%20Hospitals%20(1).jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8f48d179ee3c217a6d118796ac68fd22": {
+            "format": "png",
+            "id": "8f48d179ee3c217a6d118796ac68fd22",
+            "name": "Scaly%20Pink%20Patches_%20Differentiating%20(6).png",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Scaly%20Pink%20Patches_%20Differentiating%20(6).png",
+            "size": {
+                "width": 1901,
+                "height": 1691
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c37dc562f6b081afa3f9391a5cb9d199": {
+            "format": "png",
+            "id": "c37dc562f6b081afa3f9391a5cb9d199",
+            "name": "Scaly%20Pink%20Patches_%20Differentiating%20(4).png",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Scaly%20Pink%20Patches_%20Differentiating%20(4).png",
+            "size": {
+                "width": 2030,
+                "height": 1171
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b073f225af164f291310fcd72f330a07": {
+            "format": "jpg",
+            "id": "b073f225af164f291310fcd72f330a07",
+            "name": "Wandering%20flush%20Lyme%20borreliosis%20of%20the%20leg%20of_yyth.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Wandering%20flush%20Lyme%20borreliosis%20of%20the%20leg%20of_yyth.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9ddb91214db6b462310d82a2fe2d24e5": {
+            "format": "jpg",
+            "id": "9ddb91214db6b462310d82a2fe2d24e5",
+            "name": "What%20is%20Psoriasis_%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/What%20is%20Psoriasis_%20(1).jpg",
+            "size": {
+                "width": 350,
+                "height": 525
+            },
+            "state": 1,
+            "type": 1
+        },
+        "41b4d1a5bc351d78e904170466b049ca": {
+            "format": "jpg",
+            "id": "41b4d1a5bc351d78e904170466b049ca",
+            "name": "Young%20woman%20with%20acne_%20melasma_%20dark%20spots_%20freckle.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Young%20woman%20with%20acne_%20melasma_%20dark%20spots_%20freckle.jpg",
+            "size": {
+                "width": 353,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1d8d8b2d04c36c48827845c5d7bcb776": {
+            "format": "jpg",
+            "id": "1d8d8b2d04c36c48827845c5d7bcb776",
+            "name": "Yeast%20diaper%20rash%20and%20dermatitis%20on%20the%20belly_yythk.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Yeast%20diaper%20rash%20and%20dermatitis%20on%20the%20belly_yythk.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "1b51a37c2a6ea374ed96d46b4dbf9b9e": {
+            "format": "jpg",
+            "id": "1b51a37c2a6ea374ed96d46b4dbf9b9e",
+            "name": "Young%20man%20with%20skin%20allergy%20on%20color%20background_yyt.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Young%20man%20with%20skin%20allergy%20on%20color%20background_yyt.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6c57d134ae308afcf29fc051e1e480a3": {
+            "format": "jpg",
+            "id": "6c57d134ae308afcf29fc051e1e480a3",
+            "name": "women-symptoms-itchy-urticaria-260nw-421337137.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/women-symptoms-itchy-urticaria-260nw-421337137.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "178b75a97d2ab52c3bb950b5cf6a9434": {
+            "format": "jpg",
+            "id": "178b75a97d2ab52c3bb950b5cf6a9434",
+            "name": "Women%20with%20symptoms%20of%20itchy%20urticaria.%20Stock%20Photo.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Women%20with%20symptoms%20of%20itchy%20urticaria.%20Stock%20Photo.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f3f0dbde200588b130204b123deccb78": {
+            "format": "jpg",
+            "id": "f3f0dbde200588b130204b123deccb78",
+            "name": "women%20with%20acne_%20Skin%20disease_%20Folliculitis%20inflammation__.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/women%20with%20acne_%20Skin%20disease_%20Folliculitis%20inflammation__.jpg",
+            "size": {
+                "width": 361,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c9e64d7735cd4bb4254860a437974b70": {
+            "format": "jpg",
+            "id": "c9e64d7735cd4bb4254860a437974b70",
+            "name": "urticarial-rash-drug-allergy-260nw-555776152.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/urticarial-rash-drug-allergy-260nw-555776152.jpg",
+            "size": {
+                "width": 347,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e18f51478f14a9636fe46c1d245b22cc": {
+            "format": "jpg",
+            "id": "e18f51478f14a9636fe46c1d245b22cc",
+            "name": "urticaria%20on%20skin.%20rashes_%20of%20which%20urticaria%20and_y.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/urticaria%20on%20skin.%20rashes_%20of%20which%20urticaria%20and_y.jpg",
+            "size": {
+                "width": 273,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "83c96a4bebc10099df0b6ee2fdb9777f": {
+            "format": "jpg",
+            "id": "83c96a4bebc10099df0b6ee2fdb9777f",
+            "name": "Types%20of%20Psoriasis_%20Medical%20Pictures.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Types%20of%20Psoriasis_%20Medical%20Pictures.jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 1,
+            "type": 1
+        },
+        "80d97c0f825c338663cae158da21133e": {
+            "format": "jpg",
+            "id": "80d97c0f825c338663cae158da21133e",
+            "name": "Common%20rash%20in%20newborn%20usually%20between%202-5%20day_yyth.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Common%20rash%20in%20newborn%20usually%20between%202-5%20day_yyth.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eaa353ddce674ac6d6005341db3f2e6d": {
+            "format": "jpg",
+            "id": "eaa353ddce674ac6d6005341db3f2e6d",
+            "name": "Concept%20of%20monkeypox%20epidemic_%20white%20woman%20Skin%20ery%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Concept%20of%20monkeypox%20epidemic_%20white%20woman%20Skin%20ery%20(1).jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "0d591ec0571c07f219890fb2531c1f4b": {
+            "format": "jpg",
+            "id": "0d591ec0571c07f219890fb2531c1f4b",
+            "name": "Concept%20of%20monkeypox%20epidemic_%20white%20man%20Skin%20eryth.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Concept%20of%20monkeypox%20epidemic_%20white%20man%20Skin%20eryth.jpg",
+            "size": {
+                "width": 462,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f068d164de91906078def582ae7246e0": {
+            "format": "jpg",
+            "id": "f068d164de91906078def582ae7246e0",
+            "name": "Concept%20of%20monkeypox%20epidemic_%20white%20man%20Skin%20eryth%20(2).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Concept%20of%20monkeypox%20epidemic_%20white%20man%20Skin%20eryth%20(2).jpg",
+            "size": {
+                "width": 463,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6638cfd13392459027e35f287891264f": {
+            "format": "jpg",
+            "id": "6638cfd13392459027e35f287891264f",
+            "name": "closeup-view-section-naked-human-260nw-2097498358.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/closeup-view-section-naked-human-260nw-2097498358.jpg",
+            "size": {
+                "width": 409,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "4cc004fbb8f8274bdd89e1753dd712f6": {
+            "format": "jpg",
+            "id": "4cc004fbb8f8274bdd89e1753dd712f6",
+            "name": "close-image-womans-hand-holding-260nw-2167633989.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/close-image-womans-hand-holding-260nw-2167633989.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "437f93c65434e9cd4d3dda39b77f01ac": {
+            "format": "jpg",
+            "id": "437f93c65434e9cd4d3dda39b77f01ac",
+            "name": "An%20extreme%20close%20up%20portrait%20of%20a%20beautiful.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/An%20extreme%20close%20up%20portrait%20of%20a%20beautiful.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3c4b00231d016fa5419eaa08557d083d": {
+            "format": "jpg",
+            "id": "3c4b00231d016fa5419eaa08557d083d",
+            "name": "An%20extreme%20closeup%20view%20on%20the%20cheek%20of%20a_yy.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/An%20extreme%20closeup%20view%20on%20the%20cheek%20of%20a_yy.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3428b34bba1d2d18fa9c0aa8a157bd7e": {
+            "format": "jpg",
+            "id": "3428b34bba1d2d18fa9c0aa8a157bd7e",
+            "name": "anatomy.%20body.%20skin.%20skin%20disease.%20psoriasis.%20spotted_yyth.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/anatomy.%20body.%20skin.%20skin%20disease.%20psoriasis.%20spotted_yyth.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f18ec13afdb9f91b652da0ba3c49e160": {
+            "format": "jpg",
+            "id": "f18ec13afdb9f91b652da0ba3c49e160",
+            "name": "aphthous%20ulcers%20in%20asian%20woman%20_%20She%20touching_yythk.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/aphthous%20ulcers%20in%20asian%20woman%20_%20She%20touching_yythk.jpg",
+            "size": {
+                "width": 347,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "824ed38197c2f180042bada75394f34c": {
+            "format": "png",
+            "id": "824ed38197c2f180042bada75394f34c",
+            "name": "Aggressive%20Nodular%20Malignant%20Melanoma.png",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Aggressive%20Nodular%20Malignant%20Melanoma.png",
+            "size": {
+                "width": 3000,
+                "height": 3937
+            },
+            "state": 2,
+            "type": 1
+        },
+        "74086bfacef4db920cd8a07eafeefe69": {
+            "format": "jpg",
+            "id": "74086bfacef4db920cd8a07eafeefe69",
+            "name": "Affect%20Skin%20Cancer%20Detection%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Affect%20Skin%20Cancer%20Detection%20(1).jpg",
+            "size": {
+                "width": 5616,
+                "height": 1862
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a1c1a442f6e33f9fca5325cb78036670": {
+            "format": "jpg",
+            "id": "a1c1a442f6e33f9fca5325cb78036670",
+            "name": "Amelanotic%20melanoma_%20Pictures_%20symptoms.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Amelanotic%20melanoma_%20Pictures_%20symptoms.jpg",
+            "size": {
+                "width": 1100,
+                "height": 712
+            },
+            "state": 2,
+            "type": 1
+        },
+        "39456a7fa0de4f62151ad85f82ea7b9a": {
+            "format": "jpg",
+            "id": "39456a7fa0de4f62151ad85f82ea7b9a",
+            "name": "Can%20Melanoma%20Cancer%20Come%20Back.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Can%20Melanoma%20Cancer%20Come%20Back.jpg",
+            "size": {
+                "width": 2121,
+                "height": 1414
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5d636b1dc68a5638a57ba527eb168acf": {
+            "format": "jpg",
+            "id": "5d636b1dc68a5638a57ba527eb168acf",
+            "name": "5_993%20Melanoma%20Stock%20Photos_%20Pictures.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/5_993%20Melanoma%20Stock%20Photos_%20Pictures.jpg",
+            "size": {
+                "width": 612,
+                "height": 382
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e0f1ff2d8e298fef466709eeca9676db": {
+            "format": "jpg",
+            "id": "e0f1ff2d8e298fef466709eeca9676db",
+            "name": "Acral%20lentiginous%20melanoma_%208%20questions.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Acral%20lentiginous%20melanoma_%208%20questions.jpg",
+            "size": {
+                "width": 2083,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "42283124ca5ffe8a60b566b9b10cad21": {
+            "format": "jpg",
+            "id": "42283124ca5ffe8a60b566b9b10cad21",
+            "name": "Desmoplastic%20Melanoma%20Picture%20Image%20on.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Desmoplastic%20Melanoma%20Picture%20Image%20on.jpg",
+            "size": {
+                "width": 650,
+                "height": 442
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e5cb7e0c82c15b3e7329595fa349f491": {
+            "format": "gif",
+            "id": "e5cb7e0c82c15b3e7329595fa349f491",
+            "name": "detect%20melanoma%20_%20MIT%20News.gif",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/detect%20melanoma%20_%20MIT%20News.gif",
+            "size": {
+                "width": 800,
+                "height": 532
+            },
+            "state": 2,
+            "type": 1
+        },
+        "299b7e66a887433ac8e11cce6f288dc8": {
+            "format": "jpg",
+            "id": "299b7e66a887433ac8e11cce6f288dc8",
+            "name": "Erythematous%20macular%20rash%20on%20both%20palms.%20Stock%20Phot.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Erythematous%20macular%20rash%20on%20both%20palms.%20Stock%20Phot.jpg",
+            "size": {
+                "width": 383,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "30188941187165bc6541605eedef50ce": {
+            "format": "png",
+            "id": "30188941187165bc6541605eedef50ce",
+            "name": "Example%20with%20and%20without%20melanoma.png",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Example%20with%20and%20without%20melanoma.png",
+            "size": {
+                "width": 600,
+                "height": 905
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5fd5a7dfaae428ae624c981671811666": {
+            "format": "jpg",
+            "id": "5fd5a7dfaae428ae624c981671811666",
+            "name": "Face%20of%20a%20young%20woman%20with%20red%20cheeks%20suffer%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Face%20of%20a%20young%20woman%20with%20red%20cheeks%20suffer%20(1).jpg",
+            "size": {
+                "width": 173,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b140f392612e4853e1f20531c24f45e8": {
+            "format": "jpg",
+            "id": "b140f392612e4853e1f20531c24f45e8",
+            "name": "Face%20of%20a%20young%20woman%20with%20red%20cheeks%20suffer.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Face%20of%20a%20young%20woman%20with%20red%20cheeks%20suffer.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "fc94f2938efd78ded6597396960ac659": {
+            "format": "jpg",
+            "id": "fc94f2938efd78ded6597396960ac659",
+            "name": "Face%20of%20girl%20with%20erythema%20cutaneous%20caused%20by_yyth.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Face%20of%20girl%20with%20erythema%20cutaneous%20caused%20by_yyth.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a747b88f02f11585b33b3a74ac6823db": {
+            "format": "jpg",
+            "id": "a747b88f02f11585b33b3a74ac6823db",
+            "name": "Is%20there%20more%20than%20one%20road%20to%20melanoma.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Is%20there%20more%20than%20one%20road%20to%20melanoma.jpg",
+            "size": {
+                "width": 485,
+                "height": 323
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d6c997517a42b3a37f0d42cd33d03b8f": {
+            "format": "jpg",
+            "id": "d6c997517a42b3a37f0d42cd33d03b8f",
+            "name": "Malignant%20Melanoma%20of%20Skin_%20Symptoms.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Malignant%20Melanoma%20of%20Skin_%20Symptoms.jpg",
+            "size": {
+                "width": 408,
+                "height": 368
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3caf1cf869169f276cafbdf95a3a984c": {
+            "format": "jpg",
+            "id": "3caf1cf869169f276cafbdf95a3a984c",
+            "name": "Malignant%20Melanoma%20Picture%20Image.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Malignant%20Melanoma%20Picture%20Image.jpg",
+            "size": {
+                "width": 650,
+                "height": 442
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6707921b072205f35852a8b0e641b9a0": {
+            "format": "jpg",
+            "id": "6707921b072205f35852a8b0e641b9a0",
+            "name": "Malignant%20Melanoma_%20Practice%20Essentials.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Malignant%20Melanoma_%20Practice%20Essentials.jpg",
+            "size": {
+                "width": 252,
+                "height": 380
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ca2eab8e303261d69ccc6a149e8859f7": {
+            "format": "jpg",
+            "id": "ca2eab8e303261d69ccc6a149e8859f7",
+            "name": "conceptual%20image%20of%20patient%20being%20embarrassed%20at%20ha.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/conceptual%20image%20of%20patient%20being%20embarrassed%20at%20ha.jpg",
+            "size": {
+                "width": 173,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0088d77583981be8a645634fef331bae": {
+            "format": "jpg",
+            "id": "0088d77583981be8a645634fef331bae",
+            "name": "ABCDE_s%20of%20Melanoma_%20What%20to%20Look%20For.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/ABCDE_s%20of%20Melanoma_%20What%20to%20Look%20For.jpg",
+            "size": {
+                "width": 3000,
+                "height": 2000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f2eca8ddb270c14a9d5e59b639ec137": {
+            "format": "jpg",
+            "id": "4f2eca8ddb270c14a9d5e59b639ec137",
+            "name": "Amelanotic%20Melanoma%20Pictures.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Amelanotic%20Melanoma%20Pictures.jpg",
+            "size": {
+                "width": 1090,
+                "height": 891
+            },
+            "state": 2,
+            "type": 1
+        },
+        "52969c680a54179515d1652154d7b3bf": {
+            "format": "jpg",
+            "id": "52969c680a54179515d1652154d7b3bf",
+            "name": "Amelanotic%20Melanoma_%20Symptoms_%20Causes.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Amelanotic%20Melanoma_%20Symptoms_%20Causes.jpg",
+            "size": {
+                "width": 1536,
+                "height": 1155
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b0466226c010a7c849391142af2fdc46": {
+            "format": "jpg",
+            "id": "b0466226c010a7c849391142af2fdc46",
+            "name": "Boy%20with%20red%20cheeks-%20diathesis%20or%20allergy%20symptoms.%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Boy%20with%20red%20cheeks-%20diathesis%20or%20allergy%20symptoms.%20(1).jpg",
+            "size": {
+                "width": 406,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cccda85a9efdc0ad154b3c3b1816af99": {
+            "format": "jpg",
+            "id": "cccda85a9efdc0ad154b3c3b1816af99",
+            "name": "Boy%20with%20red%20cheeks-%20diathesis%20or%20allergy%20symptoms.%20(2).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Boy%20with%20red%20cheeks-%20diathesis%20or%20allergy%20symptoms.%20(2).jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ef2661f7f1f1784fab80d2b6cb28ea0b": {
+            "format": "jpg",
+            "id": "ef2661f7f1f1784fab80d2b6cb28ea0b",
+            "name": "Boy%20with%20red%20cheeks-%20diathesis%20or%20allergy%20symptoms..jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Boy%20with%20red%20cheeks-%20diathesis%20or%20allergy%20symptoms..jpg",
+            "size": {
+                "width": 380,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "38432c2d9ab3d75f0a18ed467a73f235": {
+            "format": "jpg",
+            "id": "38432c2d9ab3d75f0a18ed467a73f235",
+            "name": "Close%20up%20image%20of%20a%20little%20boy_s%20body%20suffer.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Close%20up%20image%20of%20a%20little%20boy_s%20body%20suffer.jpg",
+            "size": {
+                "width": 392,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "62a0a44fcdae35bb3b5a6a98a6362637": {
+            "format": "jpg",
+            "id": "62a0a44fcdae35bb3b5a6a98a6362637",
+            "name": "Close%20up%20image%20of%20arm%20suffering%20severe%20urticaria_yy%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Close%20up%20image%20of%20arm%20suffering%20severe%20urticaria_yy%20(1).jpg",
+            "size": {
+                "width": 462,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "cdccad81d2159e203127c665bf90af36": {
+            "format": "jpg",
+            "id": "cdccad81d2159e203127c665bf90af36",
+            "name": "Close%20up%20image%20of%20skin%20texture%20suffering%20severe_yyt%20(1).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Close%20up%20image%20of%20skin%20texture%20suffering%20severe_yyt%20(1).jpg",
+            "size": {
+                "width": 462,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6236cbf889dfd9e12fcd68c22d29d997": {
+            "format": "jpg",
+            "id": "6236cbf889dfd9e12fcd68c22d29d997",
+            "name": "Close%20up%20image%20of%20skin%20texture%20suffering%20severe_yyt.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Close%20up%20image%20of%20skin%20texture%20suffering%20severe_yyt.jpg",
+            "size": {
+                "width": 462,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9de0cfcd1e0d1ded8eaad08ac2044d7a": {
+            "format": "jpg",
+            "id": "9de0cfcd1e0d1ded8eaad08ac2044d7a",
+            "name": "close-image-skin-texture-suffering-260nw-2057444339.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/close-image-skin-texture-suffering-260nw-2057444339.jpg",
+            "size": {
+                "width": 462,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e9d99e18ffe753a62192eee36ea61c1d": {
+            "format": "jpeg",
+            "id": "e9d99e18ffe753a62192eee36ea61c1d",
+            "name": "Drugs%20and%20Melanoma%20Skin%20Cancer.jpeg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Drugs%20and%20Melanoma%20Skin%20Cancer.jpeg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e405b443c5faa92682429b3eb8a3c4c7": {
+            "format": "jpg",
+            "id": "e405b443c5faa92682429b3eb8a3c4c7",
+            "name": "Early-Stage%20Melanoma_%20Skin%20Cancer%20Treatment.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Early-Stage%20Melanoma_%20Skin%20Cancer%20Treatment.jpg",
+            "size": {
+                "width": 1500,
+                "height": 1125
+            },
+            "state": 2,
+            "type": 1
+        },
+        "98a299bbe8ee8922af453dfe0804b4ef": {
+            "format": "jpeg",
+            "id": "98a299bbe8ee8922af453dfe0804b4ef",
+            "name": "Evaluate%20Moles_%20Skinworks%20Dermatology.jpeg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Evaluate%20Moles_%20Skinworks%20Dermatology.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cda0cc75bcf464eb7a446e03eb2c17a6": {
+            "format": "jpg",
+            "id": "cda0cc75bcf464eb7a446e03eb2c17a6",
+            "name": "image%20%20of%20the%20mens%20hand%20showing%20skin%20disease.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/image%20%20of%20the%20mens%20hand%20showing%20skin%20disease.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9df31a4d324fbc3a7a54d1ce68ec32d2": {
+            "format": "jpg",
+            "id": "9df31a4d324fbc3a7a54d1ce68ec32d2",
+            "name": "Itching%20of%20skin%20diseases%20in%20women%20using%20the.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Itching%20of%20skin%20diseases%20in%20women%20using%20the.jpg",
+            "size": {
+                "width": 440,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ee683d5b39a125d6ab5a2e1a88b02e37": {
+            "format": "jpg",
+            "id": "ee683d5b39a125d6ab5a2e1a88b02e37",
+            "name": "itching-skin-diseases-man-using-260nw-1233215578.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/itching-skin-diseases-man-using-260nw-1233215578.jpg",
+            "size": {
+                "width": 441,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f00d823ac1b29f43b9886f86e05cb763": {
+            "format": "jpg",
+            "id": "f00d823ac1b29f43b9886f86e05cb763",
+            "name": "Melanoma%20-%20Symptoms%20and%20causes%20-%20Mayo.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20-%20Symptoms%20and%20causes%20-%20Mayo.jpg",
+            "size": {
+                "width": 632,
+                "height": 623
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2d2b73c54c76bb17f2b7637a43aabb95": {
+            "format": "jpg",
+            "id": "2d2b73c54c76bb17f2b7637a43aabb95",
+            "name": "Melanoma%20-%20Wikipedia.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20-%20Wikipedia.jpg",
+            "size": {
+                "width": 2450,
+                "height": 1705
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cefd854909b6386eec1228f09d439675": {
+            "format": "jpg",
+            "id": "cefd854909b6386eec1228f09d439675",
+            "name": "Melanoma%20Medical%20Definition%20Including.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Medical%20Definition%20Including.jpg",
+            "size": {
+                "width": 800,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dbd237f3a053429486cb451798399f69": {
+            "format": "jpg",
+            "id": "dbd237f3a053429486cb451798399f69",
+            "name": "Melanoma%20Pictures%20&%20Symptoms%20-%20What.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Pictures%20&%20Symptoms%20-%20What.jpg",
+            "size": {
+                "width": 640,
+                "height": 639
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b28696892b0d2e496fcdff5082d4bf02": {
+            "format": "jpg",
+            "id": "b28696892b0d2e496fcdff5082d4bf02",
+            "name": "Melanoma%20Pictures_%20Skin%20Changes%20and.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Pictures_%20Skin%20Changes%20and.jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "be061fe8cc2400bb1913d30e18fdc3f9": {
+            "format": "jpg",
+            "id": "be061fe8cc2400bb1913d30e18fdc3f9",
+            "name": "Melanoma%20Skin%20Cancer%20News%20_%20Articles.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Melanoma%20Skin%20Cancer%20News%20_%20Articles.jpg",
+            "size": {
+                "width": 2000,
+                "height": 1333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f2d3e1929992d114f219015aa0cb4d34": {
+            "format": "jpg",
+            "id": "f2d3e1929992d114f219015aa0cb4d34",
+            "name": "Nodular%20Melanoma%20Images%20%E2%80%94%20DermNet.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Nodular%20Melanoma%20Images%20%E2%80%94%20DermNet.jpg",
+            "size": {
+                "width": 294,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7ff756baec95289e98a630d64cb8bfdd": {
+            "format": "jpg",
+            "id": "7ff756baec95289e98a630d64cb8bfdd",
+            "name": "peeling%20of%20the%20skin_%20papules_%20pustules_%20post-acne_.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/peeling%20of%20the%20skin_%20papules_%20pustules_%20post-acne_.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fc79ca4ed18622d4e37e0419c4143860": {
+            "format": "jpg",
+            "id": "fc79ca4ed18622d4e37e0419c4143860",
+            "name": "Palmar%20erythema%20often%20called%20liver%20palms%20in%20both_yy.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Palmar%20erythema%20often%20called%20liver%20palms%20in%20both_yy.jpg",
+            "size": {
+                "width": 384,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4764a61c29d4578d7b56a1fb3ee24925": {
+            "format": "jpg",
+            "id": "4764a61c29d4578d7b56a1fb3ee24925",
+            "name": "rash-fifth-disease-on-child-260nw-1127017082.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/rash-fifth-disease-on-child-260nw-1127017082.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e9bcdaf65d60708d00efce4e91140b4e": {
+            "format": "png",
+            "id": "e9bcdaf65d60708d00efce4e91140b4e",
+            "name": "Red%20And%20Common%20Rosacea%20Misdiagnosis.png",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Red%20And%20Common%20Rosacea%20Misdiagnosis.png",
+            "size": {
+                "width": 629,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c5dc47679bca4a5dfa9e2236d8cf1b4": {
+            "format": "jpg",
+            "id": "7c5dc47679bca4a5dfa9e2236d8cf1b4",
+            "name": "red-arm-hurt-skin-allergy-260nw-1142882096.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/red-arm-hurt-skin-allergy-260nw-1142882096.jpg",
+            "size": {
+                "width": 392,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8e0701978a4051f50cfbb4a3d4168ffa": {
+            "format": "jpg",
+            "id": "8e0701978a4051f50cfbb4a3d4168ffa",
+            "name": "Skin%20Cancer_%20Acne_%20Skin%20Injury%20(4).jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Skin%20Cancer_%20Acne_%20Skin%20Injury%20(4).jpg",
+            "size": {
+                "width": 544,
+                "height": 306
+            },
+            "state": 1,
+            "type": 1
+        },
+        "77617b40e900adcaed4f15597a7e7e67": {
+            "format": "jpg",
+            "id": "77617b40e900adcaed4f15597a7e7e67",
+            "name": "Skin%20cancer_%20Half%20of%20people%20surviving.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Skin%20cancer_%20Half%20of%20people%20surviving.jpg",
+            "size": {
+                "width": 976,
+                "height": 549
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b2914946d01d989912ba255acfa5850": {
+            "format": "jpg",
+            "id": "3b2914946d01d989912ba255acfa5850",
+            "name": "Symptoms%20of%20skin%20cancer_%20Woman_s.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Symptoms%20of%20skin%20cancer_%20Woman_s.jpg",
+            "size": {
+                "width": 760,
+                "height": 1013
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9a2ce8b8346c11504809173de75a299b": {
+            "format": "jpeg",
+            "id": "9a2ce8b8346c11504809173de75a299b",
+            "name": "Targeted%20Therapy%20in%20Melanoma%20_%20NEJM.jpeg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Targeted%20Therapy%20in%20Melanoma%20_%20NEJM.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 448
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e27f61426dc88068e352034049a3fa3f": {
+            "format": "jpg",
+            "id": "e27f61426dc88068e352034049a3fa3f",
+            "name": "Texas%20Psoriasis%20Specialists%20-%20Skin.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Texas%20Psoriasis%20Specialists%20-%20Skin.jpg",
+            "size": {
+                "width": 795,
+                "height": 448
+            },
+            "state": 1,
+            "type": 1
+        },
+        "420d64b03b261210acd2ebcfb37f9ea3": {
+            "format": "jpg",
+            "id": "420d64b03b261210acd2ebcfb37f9ea3",
+            "name": "Texas%20Rosacea%20Specialists%20-%20Skin%20Cancer.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Texas%20Rosacea%20Specialists%20-%20Skin%20Cancer.jpg",
+            "size": {
+                "width": 795,
+                "height": 448
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7be35432ed4b50b2ff48d54b7cfe649e": {
+            "format": "jpg",
+            "id": "7be35432ed4b50b2ff48d54b7cfe649e",
+            "name": "The%20concept%20of%20varicose%20disease%20and%20cosmetology.%20Th.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/The%20concept%20of%20varicose%20disease%20and%20cosmetology.%20Th.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "a8d4d0e74ebef2f74dc58dca084fbaf1": {
+            "format": "jpg",
+            "id": "a8d4d0e74ebef2f74dc58dca084fbaf1",
+            "name": "The%20response%20in%20the%20form%20of%20erythema%20and%20tum.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/The%20response%20in%20the%20form%20of%20erythema%20and%20tum.jpg",
+            "size": {
+                "width": 347,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "d507df1a3f831be4585cb75d9d74fb36": {
+            "format": "jpg",
+            "id": "d507df1a3f831be4585cb75d9d74fb36",
+            "name": "The%20skin%20of%20a%20newborn%20is%20shelled%20in%20the_yyth.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/The%20skin%20of%20a%20newborn%20is%20shelled%20in%20the_yyth.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b226027e6b6f6673191011d12f1f6b98": {
+            "format": "jpg",
+            "id": "b226027e6b6f6673191011d12f1f6b98",
+            "name": "The%20rash%20from%20fifth%20disease%20on%20a%20child.%20Stoc.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/The%20rash%20from%20fifth%20disease%20on%20a%20child.%20Stoc.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "299410ed5ba68d49af70e2807e5d8183": {
+            "format": "jpg",
+            "id": "299410ed5ba68d49af70e2807e5d8183",
+            "name": "skin-disease-psoriasis-dermatitis-head-260nw-2094590290.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/skin-disease-psoriasis-dermatitis-head-260nw-2094590290.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7e6c03e7faac61f4f031c2f27647cb2a": {
+            "format": "jpg",
+            "id": "7e6c03e7faac61f4f031c2f27647cb2a",
+            "name": "Seborrheic%20keratosis%20vs.%20melanoma_%20What.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Seborrheic%20keratosis%20vs.%20melanoma_%20What.jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 1,
+            "type": 1
+        },
+        "13d613154cf4679d338e50b47977da94": {
+            "format": "jpg",
+            "id": "13d613154cf4679d338e50b47977da94",
+            "name": "Palmar%20erythema%20in%20both%20right%20and%20left%20hands_yythkg.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Palmar%20erythema%20in%20both%20right%20and%20left%20hands_yythkg.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5e3c0575697af89a507624eab1b38127": {
+            "format": "jpg",
+            "id": "5e3c0575697af89a507624eab1b38127",
+            "name": "Palmar%20erythema%20in%20left%20hand%20of%20Southeast%20Asian__yy.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Palmar%20erythema%20in%20left%20hand%20of%20Southeast%20Asian__yy.jpg",
+            "size": {
+                "width": 246,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "67905118e967139a044fbfb15f672670": {
+            "format": "jpg",
+            "id": "67905118e967139a044fbfb15f672670",
+            "name": "Palm%20patient%20erythema%20in%20red%20in%20ulcers%20from.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Palm%20patient%20erythema%20in%20red%20in%20ulcers%20from.jpg",
+            "size": {
+                "width": 330,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b4311960bca0bb45bf76953d674d0a7d": {
+            "format": "jpg",
+            "id": "b4311960bca0bb45bf76953d674d0a7d",
+            "name": "OIP.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/OIP.jpg",
+            "size": {
+                "width": 332,
+                "height": 345
+            },
+            "state": 2,
+            "type": 1
+        },
+        "91cff7051d1bdf5938f038b12e9b0ce5": {
+            "format": "jpg",
+            "id": "91cff7051d1bdf5938f038b12e9b0ce5",
+            "name": "mottled%20skin%20heat%20rash%20hives%20allergy%20reaction%20on_yy.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/mottled%20skin%20heat%20rash%20hives%20allergy%20reaction%20on_yy.jpg",
+            "size": {
+                "width": 347,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c884689ebb74c9e6e876972cf0f22168": {
+            "format": "jpg",
+            "id": "c884689ebb74c9e6e876972cf0f22168",
+            "name": "migrating%20erythema%20after%20a%20tick%20bite%20on%20a%20ma.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/migrating%20erythema%20after%20a%20tick%20bite%20on%20a%20ma.jpg",
+            "size": {
+                "width": 390,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "1287e996deb93d53001b30c569b77614": {
+            "format": "jpg",
+            "id": "1287e996deb93d53001b30c569b77614",
+            "name": "ABCDEFG%20of%20melanoma%20_%20DermNet.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/ABCDEFG%20of%20melanoma%20_%20DermNet.jpg",
+            "size": {
+                "width": 294,
+                "height": 222
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6e114082519d96298d9298fd73a730b7": {
+            "format": "jpg",
+            "id": "6e114082519d96298d9298fd73a730b7",
+            "name": "itching-skin-diseases-women-using-260nw-614425394.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/itching-skin-diseases-women-using-260nw-614425394.jpg",
+            "size": {
+                "width": 425,
+                "height": 280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "024410b5e78ce66cc57402ff84708e49": {
+            "format": "jpg",
+            "id": "024410b5e78ce66cc57402ff84708e49",
+            "name": "Psoriasis_%20causes_%20symptoms_%20and.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis_%20causes_%20symptoms_%20and.jpg",
+            "size": {
+                "width": 4381,
+                "height": 2920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "576a0359a3259f0b6b953f5220b408fd": {
+            "format": "jpg",
+            "id": "576a0359a3259f0b6b953f5220b408fd",
+            "name": "Treatment%20for%20Psoriasis_%20Rosacea.jpg",
+            "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Treatment%20for%20Psoriasis_%20Rosacea.jpg",
+            "size": {
+                "width": 390,
+                "height": 162
+            },
+            "state": 1,
+            "type": 1
+        }
+    }
+}

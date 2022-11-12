@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e558d89d3d3238a7e464f9d2496e51cd",
+        "name": "A%20small%20child%20has%20a%20rash%20on%20his%20cheeks_yythk.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20small%20child%20has%20a%20rash%20on%20his%20cheeks_yythk.jpg",
+        "size": {
+            "width": 392,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AJH-Zg6B1",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 55.36000366210938,
+                "width": 43.2,
+                "left": 182.5199951171875,
+                "top": 53.760003662109376
+            },
+            "points": [
+                {
+                    "x": 182.5199951171875,
+                    "y": 53.760003662109376
+                },
+                {
+                    "x": 225.71999511718752,
+                    "y": 53.760003662109376
+                },
+                {
+                    "x": 225.71999511718752,
+                    "y": 109.12000732421876
+                },
+                {
+                    "x": 182.5199951171875,
+                    "y": 109.12000732421876
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

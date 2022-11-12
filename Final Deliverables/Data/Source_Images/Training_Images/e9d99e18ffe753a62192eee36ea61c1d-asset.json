@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "e9d99e18ffe753a62192eee36ea61c1d",
+        "name": "Drugs%20and%20Melanoma%20Skin%20Cancer.jpeg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Drugs%20and%20Melanoma%20Skin%20Cancer.jpeg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "MPxyBVgKC",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 598.8946481740093,
+                "width": 475.08157169117646,
+                "left": 1059.825404708254,
+                "top": 203.9797639123103
+            },
+            "points": [
+                {
+                    "x": 1059.825404708254,
+                    "y": 203.9797639123103
+                },
+                {
+                    "x": 1534.9069763994305,
+                    "y": 203.9797639123103
+                },
+                {
+                    "x": 1534.9069763994305,
+                    "y": 802.8744120863196
+                },
+                {
+                    "x": 1059.825404708254,
+                    "y": 802.8744120863196
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

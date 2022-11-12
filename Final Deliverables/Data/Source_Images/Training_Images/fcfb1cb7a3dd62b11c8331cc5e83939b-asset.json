@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fcfb1cb7a3dd62b11c8331cc5e83939b",
+        "name": "A%20magnified%20circle%20is%20seen%20over%20the%20cheek%20of.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20magnified%20circle%20is%20seen%20over%20the%20cheek%20of.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "LC3HKMwB1",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 110.3199951171875,
+                "width": 125.12001953125001,
+                "left": 232.4,
+                "top": 94.80000000000001
+            },
+            "points": [
+                {
+                    "x": 232.4,
+                    "y": 94.80000000000001
+                },
+                {
+                    "x": 357.52001953125,
+                    "y": 94.80000000000001
+                },
+                {
+                    "x": 357.52001953125,
+                    "y": 205.1199951171875
+                },
+                {
+                    "x": 232.4,
+                    "y": 205.1199951171875
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

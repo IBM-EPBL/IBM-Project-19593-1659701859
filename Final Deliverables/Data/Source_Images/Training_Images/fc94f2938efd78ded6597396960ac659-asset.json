@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fc94f2938efd78ded6597396960ac659",
+        "name": "Face%20of%20girl%20with%20erythema%20cutaneous%20caused%20by_yyth.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Face%20of%20girl%20with%20erythema%20cutaneous%20caused%20by_yyth.jpg",
+        "size": {
+            "width": 390,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "rO8I2HpmU",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 75.8400146484375,
+                "width": 79.36000976562501,
+                "left": 137.8800048828125,
+                "top": 172.8
+            },
+            "points": [
+                {
+                    "x": 137.8800048828125,
+                    "y": 172.8
+                },
+                {
+                    "x": 217.24001464843752,
+                    "y": 172.8
+                },
+                {
+                    "x": 217.24001464843752,
+                    "y": 248.6400146484375
+                },
+                {
+                    "x": 137.8800048828125,
+                    "y": 248.6400146484375
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

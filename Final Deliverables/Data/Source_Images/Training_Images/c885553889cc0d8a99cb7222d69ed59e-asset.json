@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c885553889cc0d8a99cb7222d69ed59e",
+        "name": "A%20case%20of%20Lyme%20disease%20(erythema%20migrans)%20after_yyt.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/A%20case%20of%20Lyme%20disease%20(erythema%20migrans)%20after_yyt.jpg",
+        "size": {
+            "width": 352,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VAvVcALC3",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 93.44000244140625,
+                "width": 155.20000000000002,
+                "left": 111.960009765625,
+                "top": 104.32000732421875
+            },
+            "points": [
+                {
+                    "x": 111.960009765625,
+                    "y": 104.32000732421875
+                },
+                {
+                    "x": 267.16000976562503,
+                    "y": 104.32000732421875
+                },
+                {
+                    "x": 267.16000976562503,
+                    "y": 197.760009765625
+                },
+                {
+                    "x": 111.960009765625,
+                    "y": 197.760009765625
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
