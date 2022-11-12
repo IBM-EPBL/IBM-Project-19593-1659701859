@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\e099af1976b69eb20f354aa6b76e9700\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\9a98306ca52f42d3447b4a04413e28c2\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\14f4546fd122cd34d04cbd6911dee2bc\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\f27839e5aa3f99ad9abd59eff16b2fa3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\b543212a76e31774c56774e3b52021cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\f89bf1921debe280d56d9fd6f7d9d069\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\5fbce257bb369b1bd2ce45e15c2e9f28\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\cb3e1d0452e19249a57105c3d4950ebc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\f6c1e3133fdcb27dd771889b3a39b4de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\0c40da6f8365ddbb9dc29b3e65246c8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\dde4c3ca167201a7fed0eac744e6b0d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\926a92b0e22bb6ff44dbc2e15473919a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\88956efcb220c5e9563d4e0169ae2816\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\05fa352ff3a811a4c7f6e50d03beba12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\e12c20e44ed69e75e4ed452985ab12f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\dcfe42fe76ae4655612e22bb58ba572c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\eb54011d2757bbcdc908743de105e0df\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\94e034216380f23b518e50593b69a2f0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\bec6fed7c9cde0349c8ed3bafa614eb9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\877f81a341f1106f3186f95e8c404644\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\bd2979f50600d2da9a8912072ca686d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\c3f23a3fc127c05932fcce036c351b1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\56e290f47b8324288a7f37b8977f41eb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\7f5abfd25a15469fd4a1a7b8b875a4e6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\b8696b61a4c06c4452cd83724f8871b5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\f2ef05ce24c15c4cf54f8512ff342ca1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\bd13b36385d5b70d1816091071e19ec6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\3ae0c348e6ea4879b0c6aa534bfe37e2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:4:11-43
+		INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:3:11-67
+	android:versionCode
+		INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:2:11-69
+dist:module
+ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:6:5-39
+	dist:instant
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:6:18-37
+application
+ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\9a98306ca52f42d3447b4a04413e28c2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\9a98306ca52f42d3447b4a04413e28c2\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\14f4546fd122cd34d04cbd6911dee2bc\AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\14f4546fd122cd34d04cbd6911dee2bc\AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\eb54011d2757bbcdc908743de105e0df\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\eb54011d2757bbcdc908743de105e0df\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\94e034216380f23b518e50593b69a2f0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\94e034216380f23b518e50593b69a2f0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\eb54011d2757bbcdc908743de105e0df\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:13:13-39
+	android:label
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:11:13-45
+	android:roundIcon
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:12:13-58
+	android:icon
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:10:13-47
+	android:allowBackup
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:9:13-39
+	android:theme
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:14:13-44
+activity#buffml.com.smartdoctor.MainActivity
+ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\e099af1976b69eb20f354aa6b76e9700\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\e099af1976b69eb20f354aa6b76e9700\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\9a98306ca52f42d3447b4a04413e28c2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\9a98306ca52f42d3447b4a04413e28c2\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\14f4546fd122cd34d04cbd6911dee2bc\AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\14f4546fd122cd34d04cbd6911dee2bc\AndroidManifest.xml:5:5-6:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\f27839e5aa3f99ad9abd59eff16b2fa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\f27839e5aa3f99ad9abd59eff16b2fa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\b543212a76e31774c56774e3b52021cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\b543212a76e31774c56774e3b52021cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\f89bf1921debe280d56d9fd6f7d9d069\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\f89bf1921debe280d56d9fd6f7d9d069\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\5fbce257bb369b1bd2ce45e15c2e9f28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\5fbce257bb369b1bd2ce45e15c2e9f28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\cb3e1d0452e19249a57105c3d4950ebc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\cb3e1d0452e19249a57105c3d4950ebc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\f6c1e3133fdcb27dd771889b3a39b4de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\f6c1e3133fdcb27dd771889b3a39b4de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\0c40da6f8365ddbb9dc29b3e65246c8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\0c40da6f8365ddbb9dc29b3e65246c8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\dde4c3ca167201a7fed0eac744e6b0d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\dde4c3ca167201a7fed0eac744e6b0d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\926a92b0e22bb6ff44dbc2e15473919a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\926a92b0e22bb6ff44dbc2e15473919a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\88956efcb220c5e9563d4e0169ae2816\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\88956efcb220c5e9563d4e0169ae2816\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\05fa352ff3a811a4c7f6e50d03beba12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\05fa352ff3a811a4c7f6e50d03beba12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\e12c20e44ed69e75e4ed452985ab12f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\e12c20e44ed69e75e4ed452985ab12f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\dcfe42fe76ae4655612e22bb58ba572c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\dcfe42fe76ae4655612e22bb58ba572c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\eb54011d2757bbcdc908743de105e0df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\eb54011d2757bbcdc908743de105e0df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\94e034216380f23b518e50593b69a2f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\94e034216380f23b518e50593b69a2f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\bec6fed7c9cde0349c8ed3bafa614eb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\bec6fed7c9cde0349c8ed3bafa614eb9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\877f81a341f1106f3186f95e8c404644\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\877f81a341f1106f3186f95e8c404644\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\bd2979f50600d2da9a8912072ca686d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\bd2979f50600d2da9a8912072ca686d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\c3f23a3fc127c05932fcce036c351b1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\c3f23a3fc127c05932fcce036c351b1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\56e290f47b8324288a7f37b8977f41eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\56e290f47b8324288a7f37b8977f41eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\7f5abfd25a15469fd4a1a7b8b875a4e6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\7f5abfd25a15469fd4a1a7b8b875a4e6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\b8696b61a4c06c4452cd83724f8871b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\b8696b61a4c06c4452cd83724f8871b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\f2ef05ce24c15c4cf54f8512ff342ca1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\f2ef05ce24c15c4cf54f8512ff342ca1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\bd13b36385d5b70d1816091071e19ec6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\bd13b36385d5b70d1816091071e19ec6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\3ae0c348e6ea4879b0c6aa534bfe37e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nouman Ahmad\.gradle\caches\transforms-2\files-2.1\3ae0c348e6ea4879b0c6aa534bfe37e2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nouman Ahmad\OneDrive\Desktop\Android-App-Skin-Cancer-Detector\Testing\SmartDoctor\app\src\main\AndroidManifest.xml
