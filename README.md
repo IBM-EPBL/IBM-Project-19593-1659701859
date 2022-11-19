@@ -23,3 +23,8 @@ https://www.researchgate.net/publication/365227490_Reliable_detection_of_eczema_
  TECHNICAL ARCHITECTURE:
  
  ![image](https://user-images.githubusercontent.com/113629912/201477901-377e8f8d-5937-4084-9ae4-8a601c0e0dfc.png)
+
+
+DEMO VIDEO LINK:
+
+https://drive.google.com/file/d/1omvDRqVauNBdqCU_vjXCJfM6wta7MSQ-/view?usp=drivesdk
